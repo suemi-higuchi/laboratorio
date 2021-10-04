@@ -1,0 +1,1638 @@
+Entrevista: 02.12.2005
+Fita 1-A: A formação em engenharia na então Universidade do Brasil e a conciliação com o
+trabalho na companhia aérea Cruzeiro do Sul; a mudança de trabalho e o concurso para a
+Petrobras; a mudança do Rio de Janeiro para Salvador e o curso de Engenharia de Petróleo;
+o trabalho de gerência no campo de Taquipe, no Recôncavo Baiano, em 1965; o trabalho no
+início da Petrobras e a importância da participação do entrevistado em todo o processo de
+produção; a volta ao Rio de Janeiro em 1968 e as constantes viagens para Carmópolis, no
+Sergipe; o mestrado na Universidade de Stanford; o trabalho do entrevistado em levar a
+computação científica para dentro da área de reservatórios da Petrobras; a integração entre a
+engenharia de produção e a geologia e a compra de um simulador; o mestrado em
+matemática na PUC-Rio quando da volta de Salvador; a ida para Stanford; comentários
+sobre o funcionamento do setor de simulação de reservatórios; comentário sobre o trabalho
+para a Braspetro; a volta para Stanford, entre 1979 e 1980, para estudar, sobretudo a matéria
+Métodos Especiais de Recuperação; o convite para a Braspetro e o trabalho realizado pelo
+entrevistado; comentários sobre a relação entre a Petrobras e a Braspetro.
+Fita 1-B: Comentários sobre o monopólio da Petrobras; a atuação do entrevistado na
+Braspetro como chefe da área de Produção e Reservatórios; comentário sobre os países em
+que a empresa atuou; a volta do entrevistado à Petrobras na área de parcerias; comentário
+sobre o período do entrevistado em Angola, sobretudo os conflitos que presenciou;
+comentários sobre a volta ao Brasil, em 1994, e a atuação na área de Novos Negócios da
+Petrobras; o trabalho de análise de desempenho de campos em operação da Petrobras e
+processo de parcerias que se seguiu.
+Fita 2-A: O projeto de parceria na Bahia e a criação da Petrorecôncavo; o processo de venda
+de campos de petróleo; a aposentadoria da Petrobras, em 2001, e o novo trabalho como
+consultor; a entrada na Agência Nacional do Petróleo (ANP); breve comentário sobre a
+produção de petróleo na Noruega; o trabalho do entrevistado na ANP; comentários sobre os
+leilões de áreas exploratórias de petróleo; o convênio da ANP com a Universidade Federal
+da Bahia (UFBA) e a viabilização de campos para pequenos produtores; a importância de
+demostrar a viabilidade dos pequenos campos de petróleo para o(a) empreendedor(a)
+brasileiro(a).
+
+Entrevista: 02 de dezembro de 2005
+Sérgio Lamarão – Bom-dia, dr. Newton.
+Newton Monteiro – Bom-dia.
+S.L. – Vamos começar do começo: o senhor é engenheiro, formado pela então Universidade
+do Brasil, não é?
+N.M. – Perfeito. No Largo de São Francisco.
+S.L. – No Largo de São Francisco. Então, falar um pouquinho sobre esse final de faculdade e
+início de vida profissional, se o ingresso na Petrobras foi imediato.
+N.M. – Não, é uma coisa curiosa. Eu sou uma pessoa de origem humilde, então eu tive que
+trabalhar durante praticamente todo o meu tempo de faculdade. Eu trabalhei naquela antiga
+Cruzeiro do Sul, não é?
+S.L. – Na companhia aérea?
+N.M. – A companhia aérea, mas trabalhava como desenhista. Eles tinham um serviço
+aerofotogramétrico, e eu trabalhava lá. Quando eu estava perto... mais ou menos no meio do
+curso, eu decidi fazer Engenharia Mecânica, porque era a moda no Brasil. No começo dos anos
+60, todo mundo queria trabalhar nessa parte de indústria automobilística, e eu resolvi fazer esse
+curso. E, o mais interessante, eu resolvi fazer dois cursos, porque eu estava fazendo um curso
+de Mecânica e também eu fazia um curso de Engenharia Nuclear, para saber para que lado eu
+ia. Porque também estava em moda muito isso e eu gostava do assunto, não é? Mas fui lá.
+Quando chegou no final do curso, eu tinha mudado já de trabalho, fui para uma companhia que
+ainda existe, que era a Red Mix. Está lembrado?
+S.L. – Não lembro.
+
+1
+
+N.M. – Fazia equipamentos para a indústria de construção civil, aqueles caminhões betoneira,
+usina de concreto, não é? E ficava mais ou menos dentro do meu ramo, porque era a parte de
+mecânica, de fazer aquele instrumento. Eu estava bem colocado lá, e aí, um belo dia, eu resolvi
+fazer o concurso para a Petrobras. Fiz o concurso para a Petrobras, e quando saiu o resultado,
+eu tinha passado. Aí, bom, o que fazer? Porque eu estava ainda fazendo provas na Escola, prova
+final. Eu me lembro que eu fui falar com o Plínio Catanhede e ele falou: "Você não deve entrar
+para a Petrobras, não. Aquilo ali é uma estatal, é uma burocracia". [Riso] Aí eu disse...
+S.L. – E o senhor conhecia o Plínio de onde?
+N.M. – Ele era professor da Escola.
+S.L. – Ah, ele era professor da Escola.
+N.M. – Ele era professor da Escola, da parte de Economia. Aí ele falou: "Não, você devia fazer
+outra coisa". Mas aí apareceu o problema da oportunidade, porque eu ia sair para um trabalho
+que eu fazia para ganhar só para estudar. Era um curso novo, era o curso na Bahia. Eu tinha
+feito o curso para Mecânica aqui, e essas coisas que acontecem na vida da gente, eu estava indo
+para a Escola e encontrei um amigo meu que trabalhava na Petrobras. Aí ele falou para mim:
+"Você vai fazer o quê?" Eu falei: "Eu vou fazer Manutenção", que era um curso aqui do Rio,
+na Reduc. E ele falou: "Mas vai ter um curso novo, na Bahia, chamado Engenharia de Petróleo.
+Vai ser dado pelos estrangeiros, é um curso maior. Você não estaria interessado?" Quando ele
+falou isso, eu fiquei interessado, não é? E eu digo: "Bom, então tá bom". Inclusive, em sair do
+Rio, porque eu nunca tinha praticamente saído daqui. Aí eu digo: "Tá legal". Aí fui fazer o
+curso, e acho que foi isso que mudou a minha vida.
+S.L. – Quer dizer, na verdade, o senhor fez a prova para a Petrobras...
+N.M. – Para uma coisa, para Mecânica, e como eu...
+S.L. – Porque tem esses cursos, não é? Quem entra na Petrobras sempre tem que passar por
+um...
+
+2
+
+N.M. – Por um curso. Sempre um curso de admissão.
+S.L. – E o senhor acabou mudando...
+N.M. – É, tinham três cursos naquela época, que eram cursos badalados: o de Química, o de
+Manutenção e esse curso novo que tinha saído naquele ano.
+S.L. – Que era em Salvador.
+N.M. – Que era em Salvador. E era uma coisa que eu não fazia nem ideia do que se tratava.
+Então, eu comecei a conversar e entrei nisso, que era um curso de Engenharia de Petróleo, que
+já era, naquela época, organizado por muitos professores da Universidade de Stanford.
+S.L. – Ah, daí é que entra Stanford.
+N.M. – Não, o meu Stanford não tem nada a ver com isso.
+S.L. – Não?
+N.M. – Eu era, por acaso...
+S.L. – É porque vem depois, não é?
+N.M. – É, esse envolvimento apareceu lá uns sete ou oito anos depois, não é? Mas eu fui lá.
+Era um curso de longa duração, era um curso de dezoito meses, porque a gente... Nós fomos a
+primeira turma que substituímos os americanos na Petrobras, em exploração e produção. Para
+você ter uma ideia, a característica desse curso, nós tínhamos um período introdutório, que eu
+não sei se era de dois ou três meses, e o que nós aprendíamos era fundamentos de petróleo e
+inglês, o dia inteiro, que era para a gente poder entender. Porque todos os professores davam
+aula em inglês.
+
+3
+
+S.L. – Ah, eles davam aula em inglês! Os professores eram todos estrangeiros?
+N.M. – Todos. Eram todos americanos ou canadenses, e tinha um alemão, mas que falava
+inglês. Então, foi esse o começo, não é? Quando eu entrei na Petrobras, nas primeiras vezes,
+eu me lembro, nós tínhamos que escrever cartas em inglês, comunicação em inglês, porque o
+chefe era americano. Então, foi um período muito interessante e que nos colocou sob muita
+pressão. Porque mais adiante, logo depois da revolução, começou aquela substituição desses
+profissionais e nós fomos assumindo isso, com muito medo mas conseguimos assumir. Quer
+dizer, em 64 ou 65, eu já tinha gerenciado um campo.
+S.L. – Lá no Recôncavo?
+N.M. – Lá no Recôncavo, o campo Taquipe.
+S.L. – Gerenciar um campo significa exatamente o quê?
+N.M. – Fazer os estudos: dizer o que você vai fazer naquele campo, onde é que vai furar os
+poços, o que você pode produzir, se você vai injetar alguma coisa, se você vai mandar fazer
+algum tipo de tratamento. E esse tipo de coisa, que você... Que era o que o gringo fazia. Eles
+não nos informaram, nós começamos a estudar. Então, gerenciar o campo era isso. É, por
+exemplo, dizer quantos poços vão ter em uma determinada área, qual é a vazão que cada poço
+tem, se é preciso você injetar, que tipo de...
+S.L. – Injetar gás, não é?
+N.M. – Injetar água ou gás para recuperar mais, se você precisa fazer algum tipo de tratamento
+no óleo antes de mandar para a refinaria. E o mais interessante que nós fazíamos nessa época,
+antes da Petrobras crescer mais, é que nós também fazíamos as análises econômicas. Porque
+depois que ela cresceu demais, aí... O engenheiro moderno perdeu essa sensibilidade porque é
+um outro departamento que faz.
+S.L. – Quer dizer, vocês faziam também essa parte então, que seria mais de um economista.
+
+4
+
+N.M. – É uma coisa que eu estou tentando trazer de volta hoje em dia para o Brasil, nesse
+projeto em que eu estou, de pequena empresa, para nós termos esse profissional, que pegue
+todo...
+S.L. – Pegue o processo todo.
+N.M. – Pegue o processo todo. Não seja um superespecialista, mas um generalista, mas
+lembrando que aquilo é um negócio. Então, talvez isso, essas origens, isso tenha influenciado
+muito a minha carreira, de ter trabalhado com pessoas... Numa escala menor, porque a
+Petrobras era menor, mas que a gente via o início, o meio e o fim.
+S.L. – Essa visão de conjunto, que é importante, não é?
+N.M. – É muito importante.
+S.L. – Então, eu estou acompanhando, isso que o senhor está falando foi exatamente...
+N.M. – Nós estamos em 65.
+S.L. – Isso, em 65, o senhor é engenheiro de produção de reservatórios, na Bahia, e está baseado
+em lá em Salvador. Em 68, o senhor vem para o Rio, fazendo a mesma coisa.
+N.M. – Fazendo a mesma coisa. Aí eu diria que isso aí foi um... me deram uma espécie de uma
+rasteira. Mas é brincadeira, é rasteira entre aspas. Porque o meu chefe – que é um camarada
+que eu diria brilhante, é um cara brasileiro – ele saiu nessa época, foi um pouco depois,
+chamado Osmar Abib, e esse cara era um daqueles caras meio gênios da Petrobras, e logo
+depois ele saiu para ser chefe da parte de reservatórios da Exxon. Primeiro ele foi para Aranco,
+ficou lá muitos anos, e depois... Quando ele morreu, há uns sete ou oito anos atrás, ele era o
+chefe de reservatórios da Exxon, o que é muita coisa, lá em Houston. É muita, mas muita coisa,
+não é?
+
+5
+
+S.L. – É.
+N.M. – Mas esse camarada estava querendo tirar essa parte de reservatórios da Bahia para
+passar para o Rio de Janeiro, porque nós tínhamos acabado de descobrir campos em Sergipe.
+Nós tínhamos descoberto em Sergipe. E a Bahia concentrava o Sergipe e alguma coisa no
+Espírito Santo que tinha descoberto.
+S.L. – Ah, também já... a região Bahia também...
+N.M. – Da Bahia estava dominando aquilo, e ele achava que isso devia ser centralizado no Rio,
+não é? Ele falou: "Bom, quem quer ir para o Rio?" Aí eu digo: "Eu". [Risos] Eu não sou daqui,
+eu quero ir para o Rio.
+S.L. – "Quero voltar".
+N.M. – Ninguém queria, porque era todo mundo da Bahia. Os baianos: "Eu não quero". "Eu
+quero".
+S.L. – Eu até pensei que o senhor fosse baiano.
+N.M. – Não, eu sou daqui. Eu sou da Penha. Aí ele falou: "Quer ir?" "Eu quero". Aí eu fiquei
+contente, arrumei aquelas coisas... Na realidade, eu tenho até um processo chato porque... Ele
+me perguntou se eu queria ir, não é? Aí eu digo: "Vou". Mas foi um convite da Petrobras. Aí,
+quando eu fui acertar os papéis, a Petrobras não queria pagar a minha despesa de mudança
+porque achava que era eu que estava interessado, não é? Mas depois eu consegui resolver isso.
+Mas vim para cá, cheguei aqui, fiquei um mês ou dois meses, aí ele me mandou de volta para
+Sergipe, porque lá precisava de gente. Eu fiquei baseado aqui, mas trabalhando...
+S.L. – Viajando?
+N.M. – Viajando para lá...
+
+6
+
+S.L. – Foi o que, Carmópolis?
+N.M. – Carmópolis, aquela parte de testes e desenvolvimento de Carmópolis. Porque tinha
+poucas pessoas. Lá em Carmópolis tinha eu e mais uns dois caras, também da minha turma.
+S.L. – Engraçado, a impressão que eu tenho, eu posso estar enganado, é que a Petrobras tinha
+uma expectativa em relação a Carmópolis que não se cumpriu. Ou eu estou enganado?
+N.M. – Não, você está enganado.
+S.L. – Carmópolis realmente...
+N.M. – Carmópolis era aquilo ali.
+S.L. – Era aquilo mesmo, a Petrobras não esperava mais.
+N.M. – Era aquilo mesmo. Ele tem um volume grande, era o nosso maior campo de terra, mas
+o problema dele foi que a produtividade dele não refletia, por exemplo, a produtividade da
+Bahia. Carmópolis nunca produziu 1.000 barris, 1.500 barris por poço, era 300, no máximo, ou
+400. Então, a produtividade dele era diferente. Então, apareceu... Ele era um campo grande, a
+gente sabia, furava e achava óleo, mas tinha uma complexidade em produção. Em Carmópolis,
+você furava aqui um poço, produzia aqui, parecia um desses que você vê no filme, aquele óleo
+fluido. Do outro lado da rua, parecia uma pasta de dente.
+S.L. – Sei, é pastoso, não é?
+N.M. – Pastoso, você tinha que fazer injeção. Tanto que aquilo é um campo de prova da
+Petrobras. Lá tem quase 1.500 poços, ou mais, furados.
+S.L. – E continua tendo...
+
+7
+
+N.M. – Continua. Tem injeção de água, injeção de vapor, já teve combustão, injeção de
+polímero. Um monte de coisa nós fizemos ali.
+S.L. – É um campo que reúne todas as situações possíveis?
+N.M. – Todas as situações possíveis. É um campo de prova, hoje em dia, o Carmópolis. Mas a
+grande decepção de Carmópolis foi quanto à produtividade, porque ele produzia pouco, em
+relação ao que nós esperávamos. Onde é que nós estamos?
+S.L. – Vamos lá. Então, o senhor continua nessa... O senhor ficou oito anos baseado no Rio,
+não sei se esse tempo inteiro indo...
+N.M. – Ah, indo e vindo.
+S.L. – ...indo a Sergipe.
+N.M. – Indo a Sergipe, à Bahia... Porque quando nós voltamos, depois que o... O Abib saiu,
+por volta de 68 ou alguma coisa, porque ele fez uma viagem e aí foi contratado para ir lá. Isso
+foi um...
+S.L. – Foi um escândalo.
+N.M. – Foi um escândalo na Petrobras, com um reflexo muito grande, inclusive, na formação
+de pessoal. Porque, como ele tinha sido um dos primeiros caras a fazer doutorado, ele fez
+doutorado em Washington, o nosso departamento nos proibiu de fazer doutorado. Eu, quando
+fui fazer Stanford, fui para Stanford, eu fui sob a desculpa de fazer um estágio. Aí, no final do
+período, eu acabei fazendo o mestrado. Está entendendo? Mas eles não me deixaram fazer
+doutorado. Nós só conseguimos que alguém da produção fizesse o doutorado acho que no meio
+dos anos 80, quando nós já estávamos numa posição gerencial maior, e nós convencemos que
+já podia. Mas o exemplo do Abib matou o doutorado na produção.
+
+8
+
+S.L. – Porque a Petrobras ia investir em alguém e esse alguém, depois que se qualificava, era
+contratado por uma multinacional.
+N.M. – Por uma multinacional. Mas era normal esse negócio. Esse assédio era muito grande,
+não é? Bom, onde que eu estava?
+S.L. – Aí o senhor, em 82, acho que o senhor dá uma guinada na sua carreira.
+N.M. – Não, não, eu dei uma guinada antes
+S.L. – Ah, é? Não, porque aqui...
+N.M. – Não, é porque aqui não está.
+S.L. – Em 76, o senhor é chefe do setor. Desculpe.
+N.M. – Não, porque uma das coisas que eu costumo falar para o pessoal aqui é que a cada dez
+anos eu tenho uma boa ideia. [Risos]
+R.L. – Estamos em que fase?
+N.M. – Eu acabei de ter um agora. [Risos] Mas nessa época em que eu comecei a entrar para o
+reservatório, eu digo assim: "Poxa, não é possível, nos anos 60, que a Petrobras só tenha
+computador para fazer folha de pagamento e contabilidade". Então, nós fizemos uma coisa
+muito grande, no sentido de trazer a computação científica para dentro da área de reservatórios.
+Então, como nós fazíamos isso? Para fazer um negócio desses nós tínhamos que implorar ao
+serviço de processamento de dados um minuto, dois minutos para trabalhar nesse negócio todo.
+E nessa época então, eu e um amigo meu que não trabalha... que já se aposentou há algum
+tempo, resolvemos fazer um programa de simulação de reservatório. O primeiro simulador de
+reservatório da Petrobras, que eu chamei de Monolito, era aquele filme do Stanley Kubrick que
+tinha aquela coisa. Nós pegamos um artigo, um artigo que tinha numa revista de petróleo, e eu
+digo: "Vamos fazer esse negócio. Porque isso só pode ser resolvido com o computador". Então,
+
+9
+
+era descretizar o campo de petróleo, colocar aquelas coisas, e precisava de uma máquina. E a
+máquina, como aquelas máquinas na época de grandes computadores, quando nós começamos
+a fazer, eles tinham um sistema operacional muito fraco, não tinha muito programação. Então,
+ele tinha que entrar sozinho no computador. E isso era uma tragédia para eles, não é? Mas nós
+conseguimos convencer o Carlos Volta – eu não sei se você já ouviu falar do Carlos Volta...
+S.L. – Sim, sim.
+N.M. – E o Carlos Volta nos apoiou em fazer isso. Então, nós conseguíamos assim, dez minutos
+no computador.
+S.L. – Aqui na Avenida Chile?
+N.M. – Na Avenida Chile. Não, primeiro era aqui na praça da Rio Branco, 10. Depois passou
+para... Para onde foi? Passou para a Avenida Chile, depois. Nós é que saímos da Avenida Chile
+[Rio Branco?] e fomos para a Senador Dantas, e eles foram para a Avenida Chile. Porque a
+Produção foi depois, não é? Então, nós começamos a montar essa coisa, de fazer essas coisas,
+como a simulação. E a simulação então permitiu a integração entre a produção e a geologia.
+Porque, anteriormente, o camarada fazia o seu mapa, botava num rolo e dava para você. "Se
+vira". Com a simulação, ele tinha que trabalhar junto com a gente. Então, a gente teve que
+colocar as informações dos mapas, e a gente rodava aquilo e dava erro, chamava ele... Então,
+começamos então a integrar geologia e engenharia de produção. E acabou que no final do... em
+72, eu consegui convencer a Petrobras de fazer... Porque nós dissemos: "Olha, isso aqui é um
+trabalho de amadores, mas mostra que nós temos potencial para fazer esse estudo. Está na hora
+de nós sairmos e comprarmos um simulador profissional, uma coisa dessas". Então, depois de
+muita discussão com o Centro de Pesquisas...
+S.L. – O Cenpes, é lógico.
+N.M. – ...que dizia que fazia. E eu dizia: "Vocês não fazem. Vocês não são uma software house.
+Isso é uma coisa que vai um pouco além de você conhecer reservatórios e produção. Você
+precisa de conhecimento, de máquinas". Aí nós fizemos uma concorrência internacional e
+
+10
+
+compramos um simulador. Foi o simulador chamado Bosky. É famoso na Petrobras. Então, eu
+fui encarregado de aprender esse negócio e difundir na Petrobras. Por isso que eu passei uns
+meses em Denver.
+S.L. – No Colorado.
+N.M. – No Colorado, aprendendo essa coisa. E treinei um monte gente. Essa foi a primeira boa
+ideia que eu tive. Mas passei esse tipo de coisa. Hoje em dia, no reservatório da Petrobras só
+trabalha assim. Ninguém pensa em fazer nenhuma coisa que não seja dessa maneira. Vai lá.
+S.L. – Não, é porque eu vi aqui, o senhor já era mestre, a essa altura.
+N.M. – Porque, em 69, eu fui para Stanford. Foi esse período que eu interrompi. Quando eu
+voltei, eu já estava... Mas o simulador foi feito antes de eu ir para Stanford. Um troço
+interessante, foi bem lembrado.
+S.L. – E eu estou vendo aqui um outro mestrado, em Matemática.
+N.M. – Ah, sim! Deixa eu dizer porquê. Deixa eu dizer porquê. Quando eu cheguei aqui...
+S.L. – Isso foi logo quando o senhor voltou de Salvador.
+N.M. – Quando eu voltei, quando cheguei aqui, eu descobri que tinha um convênio com a PUC.
+S.L. – A Petrobras tinha um convênio com a PUC.
+N.M. – A Petrobras tinha um convênio com a PUC, e deve ter até hoje. Só que não tinha aluno.
+[risos] Ninguém... Mas na minha época era o seguinte: todo mundo queria ser chefe da
+Petrobras. Eu olhei, pensei: "Eu não vou ter a menor chance de ser chefe da Petrobras". Então,
+eu descobri... Eu sempre trabalhei nas falhas do sistema. Então: "Onde é que eu posso progredir
+nessa empresa? Só se eu for fazer curso, se eu estudar alguma coisa. Porque na hora de escolher
+o chefe, eles vão escolher um cara que... Eu não tenho a menor chance". Só um detalhe anterior,
+
+11
+
+lá da frente, em 63, porque eu tomei essa decisão, porque lá naquela época a gente dizia assim...
+tinha uma regra na Petrobras que dizia assim: "Os primeiros colocados escolhem onde vão
+trabalhar". Então, eu tinha sido o primeiro colocado da parte de reservatórios, vim de férias
+para o Rio achando que eu ia trabalhar em reservatórios. Quando eu voltei, eu era professor do
+Cenba, do Cenap. Aí, o que eu fiz? Ato contínuo, eu pedi demissão. Aí deu um rolo... Porque
+naquela época ainda tinha emprego aqui no Rio, não era uma diferença muito grande de salário.
+Então: "Poxa! Na minha primeira experiência vocês já estão me dando uma rasteira? Eu venho
+passar quinze dias de férias, volto... E uns caras que estão muito piores do que eu vão trabalhar
+onde eu queria e vocês me colocam para professor?" Fiz uma carta de demissão e entreguei.
+Aí: "Não..." Fizeram um negócio. O que aconteceu? Eles me pegaram, me colocaram lá onde
+eu queria, mas continuei lotado como professor. Até eu vir embora para cá, eu continuava
+lotado...
+S.L. – Mas sem nenhuma diferença salarial.
+N.M. – Não, sem nenhuma diferença salarial. Mas era um negócio que eu achava... Já estava
+esquisito aquilo, não é? Então, quando eu vim para cá, eu digo: "Bom, não vão me botar como
+chefe de jeito nenhum". Então, eu comecei a fazer esse curso. E, como eu já tinha em mente
+fazer o mestrado, e eu sabia que o mestrado precisava de uma matemática, até porque eu queria
+fazer mais, desenvolver simulação, e foi quando eu comecei esse projeto de simulação, em 67
+e 68, eu digo: "Poxa! Tem uma chance. Eu vou fazer". Aí eu convenci uma colega para fazer
+junto comigo. Por que eu tive que convencer uma colega para fazer comigo? Para pegar a
+carona dela. [risos] Eu morava no Grajaú, pegava uma carona até a PUC para fazer. Então, a
+Petrobras liberava duas vezes por semana para a gente fazer isso. Então, foi por isso que eu fiz
+isso aí. Então, eu me preparei para Stanford. Porque Stanford era uma coisa dessas. E esse
+simulador, a minha ideia era o seguinte: "Bom, eu vou levar debaixo do braço esse simulador
+e isso vai ser a minha tese quando eu chegar lá, quando eu for admitido a Stanford, não é?" Na
+época eu fiz inscrição para Penn State, para Berkeley, que era a minha favorita na época, era a
+mais badalada na época, e para Stanford.
+S.L. – Que também já tinha muito nome, imagino. Naquela época já tinha bastante nome. No
+geral, é uma universidade muito conceituada, não é?
+
+12
+
+N.M. – É, mas Berkeley era o que eu gostaria. Mas, antes disso, tinham me oferecido para a
+França. Aí eu digo: "Não, a França não tem nada a ver com petróleo". Eu acho que eu fui
+punido, fiquei mais um ano esperando. [risos]
+S.L. – E já estava com o inglês todo... super afiado também, não é?
+N.M. – Exato. Aí, quando eu fui para Stanford, cheguei lá, levei aquela coisa, aí os caras
+falaram: "Não, aqui, quem escolhe a tese somos nós". Aí eu acabei usando aquilo, esse
+simulador, como um trabalho da disciplina de Matemática Aplicada. Porque eu tive que fazer
+de novo lá, Matemática Aplicada II. Para mim foi muito bom, e aí acabei fazendo outras coisas,
+não é? Então, quando eu voltei, quando a gente tinha esse background, foi que eu comecei a
+fazer essa campanha de comprar um simulador profissional. Porque eu achava que não dava...
+que aquilo era uma coisa para profissional, não era uma coisa para amador. Aí nós fizemos. Aí
+veio o ônus, não é? Eu fui lá, passei um período lá em Denver. Aí, quando eu trouxe isso para
+cá, aí a velha guarda se recusou a usar. O pessoal mais antigo, ninguém queria.
+S.L. – Mas alegando o quê?
+N.M. – Ah! "Porque não funciona, não temos dado, é difícil de não sei o quê..." Aí eu digo:
+"Tá bom". Aí eu resolvi investir na garotada que estava saindo dos treinamentos. Então,
+comecei a dar aula lá no Cenba, nessa parte, quando chegava a hora, depois do treinamento.
+Comecei a investir nesse pessoal, que são as pessoas que vieram. Quando bate de frente, a gente
+tem que dar uma volta...
+S.L. – E encontrar uma alternativa.
+N.M. – E encontrar uma alternativa. Então, chegamos a setenta e pouco.
+S.L. – É, já estamos nos anos 70, esse setor de simulação de reservatórios foi criado.
+N.M. – Foi criado. Eu fui o primeiro... fui eu que inventei isso.
+
+13
+
+S.L. – Foi o primeiro chefe.
+N.M. – Fui o primeiro chefe, e ele está lá até hoje.
+S.L. – E existe até hoje, dentro da Engenharia de Produção.
+N.M. – Existe até hoje, dentro da Engenharia de Produção. Tem um rapaz lá que começou a
+trabalhar comigo, que é o Daniel Miranda, que deve ser a maior sumidade disso. Porque esses
+caras continuaram pesquisando, aperfeiçoando, usando as características modernas, como o
+supercomputador, como processamento paralelo. Então, aquelas coisas são terríveis. Mas os
+princípios são os mesmos. Ninguém mudou as orientações.
+S.L. – Toda a parte teórica...
+N.M. – A parte teórica é a mesma. A velocidade de cálculos e recursos gráficos para fazer era...
+Quando nós começamos a fazer isso, nós tínhamos limitação demais. Você é da área de
+ciências?
+S.L. – Não, nós somos historiadores.
+N.M. – Ah, bom.
+R.L. – É bem perto.
+N.M. – Porque chegava a um momento que as máquinas... Por exemplo, a máquina da Petrobras
+tinha menos capacidade de memória que a maquininha HP que eu tenho aqui, não é? Então,
+você tinha que fazer o programa, aqueles programas gigantes, e segmentar ele diversas vezes.
+Você fazia uma parte, gravava, depois... Porque não cabia.
+S.L. – Não comportava, não é?
+
+14
+
+N.M. – Não comportava. E eles eram lentos. Então, em algumas vezes você precisava de um
+resultado dos processos de convergência, que a gente parava o computador e fazia à mão, e
+colocava o nosso resultado ali dentro. [risos] É o que eu estou dizendo, quando você vai falar
+com um cara da minha idade, você tem essas histórias. Porque quando a gente começou a
+trabalhar, eu começai a trabalhar com o Assembler, com linguagem de máquina, aquela
+linguagem de um para um, não é? Hoje em dia, as pessoas... A minha filha, por exemplo, que
+é analista de sistemas, eu falo essas coisas para ela, ela: "Eu não quero saber disso". "Você tem
+ciência do que acontece quando você aperta uma tecla?" "Eu não quero saber". Eles aprendem
+a trabalhar com lógica, com blocos inteiros, e não como a gente, que começou a trabalhar com
+mais... quase que da Física, não é? Mas onde é que eu estava? Eu estou te atrapalhando.
+S.L. – Não, agora, nós... Quando eu falei antes que seria a grande ruptura, o senhor falou: "Não,
+tem uma ruptura antes, que é exatamente a questão da simulação". Mas eu acho que a segunda
+grande ruptura foi a Braspetro. A Braspetro entrou na sua vida e o senhor faz uma longa
+carreira...
+N.M. – Pois é, deixa eu dizer como é que ela entrou na minha vida. Ela entrou através da
+simulação. No final dos anos 70, nós descobrimos um grande campo, chamado Majnoon, no
+Iraque, que é um campo que sozinho tem duas vezes a reserva atual da Petrobras. E nunca
+produziu.
+S.L. – É gigante mesmo.
+N.M. – É gigante: temos 28 bilhões de barris. Comparado com os quatorze da Petrobras, são
+exatamente duas vezes. E nunca produziu. Então, nós estávamos lá, a Braspetro, e era chefiado
+pelo Haroldo e o Geonísio Barroso, pessoas que me conheceram da Bahia.
+S.L. – Ah, o Geonísio Barroso, é?
+N.M. – O Geonísio Barroso.
+S.L. – Que foi presidente da Petrobras, no início dos anos 60.
+
+15
+
+N.M. – Que foi presidente da Petrobras. E essa minha amiga que eu pegava carona era chefe
+da Produção na Braspetro, tinha sido chamada para lá. Aí, quando se descobriu o campo, então
+precisava fazer alguma coisa. Então, eles não tinham gente, e eu queria ir para a Braspetro. Aí,
+fui falar com o meu chefe, isso foi lá em 77, por aí, aí ele falou para mim: "Olha, se o pedido
+vier de cima, a resposta é sim, se vier de lado ou do baixo, a resposta é não". [Risos] E
+evidentemente que eu não fui. Mas, graças à interveniência de outras pessoas lá... Porque
+também eu estava começando ali...
+S.L. – É, porque isso demorou, não é?
+N.M. – Demorou. E os caras falaram: "Me cede para fazer os estudos". Me cederam para fazer
+os estudos para o Iraque. Só que esses estudos eram feitos aqui. Então, o pessoal do Iraque
+vinha aqui e fazia os estudos aqui no Edise conosco. Então, a gente cobrava, tinha a fatura. Eu
+fazia os estudos, depois discutia, dava para ela e ela discutia lá em Bagdá.
+S.L. – Ah, por isso que o senhor não foi para o Iraque.
+N.M. – Não, eu não fui para o Iraque. Eu fiz esses estudos todos aqui, com o staff que nós
+tínhamos aqui, o pessoal do reservatório, até umas coisas muito grandes, cobrávamos da
+Braspetro, era caro, um estudo caro, e fazíamos. Então, nesse momento eu voltei para aquela
+minha fase anterior, onde a gente fazia tudo, não é? Fazer análise, via mais ou menos a
+engenharia, via quanto é que ia custar aquela coisa. Porque você tinha um contrato no Iraque.
+E aqui não, aqui a Petrobras já estava grande, aqui você tinha um Departamento de Produção,
+aí você pegava aquilo e dava para o Departamento de Engenharia que depois passava para o
+Financeiro. Você, na hora que acabava o projeto, ele sumia da tua frente. Aí, de repente alguém
+estava construindo uma coisa que você nem tinha pedido. Então, era essa coisa. Quando eu
+voltei para a Braspetro, eu falei: "Poxa! Isso é legal". Aí, depois dessa coisa do Iraque, eu voltei
+para Stanford – não deve estar aí – porque os caras tinham me pedido...
+S.L. – Tem. Em 79 e 80.
+
+16
+
+N.M. – Pois é, foi naquela época daquelas crises. Eu, na realidade, eu tenho até a intenção de
+acabar... de fazer o doutorado, mas também não consegui.
+S.L. – Mas era essa a intenção, quando o senhor foi?
+N.M. – Não, eu fui lá para... Eles tinham me oferecido, eu já tinha um tempo de formado, um
+estágio não sei aonde. Eu falei: "Não, eu não quero fazer estágio em lugar nenhum. Me manda
+de volta para Stanford porque eu vou fazer algumas matérias", principalmente do que a gente
+chamava de Métodos Especiais de Recuperação, que era uma coisa muito nova e que Stanford
+era muito boa, que é essa parte de método externo, o que a gente usa para óleo pesado, de
+aquecer e de injeção a vapor. Essas coisas, a gente não sabia muito disso, e lá tinha um professor
+que era o cara que tinha inventado grande parte dessa teoria e que tinha sido meu advisor dez
+anos antes. Aí eu passei lá uma temporada na Stanford, fazendo isso aí. Foi essa parte que está
+aí. Quando eu estava em Stanford, aí houve aquela guerra do Irã e Iraque. Aí nós saímos do
+Iraque. Quando eu voltei, estavam aquelas coisas lá, aquele negócio de chove-não-molha na
+Petrobras, a gente não sabia bem para que direção ir, estávamos com a bacia de Campos, tinha
+muita [inaudível]...
+S.L. – É, foi um momento muito importante para a empresa, não é?
+N.M. – É. Aí me convidaram de novo para ir para a Braspetro. Só que dessa vez o cara que
+estava na chefia do departamento era meu amigo. Aí eu falei: "Poxa, cara, você não vai deixar...
+Os caras estão me chamando lá para ocupar uma gerência". Aí eles me deixaram, me liberaram.
+Foi então que eu mergulhei naquele negócio de oeste da África, de norte da África. Porque lá
+na Braspetro você tinha que procurar o negócio. Você tem que procurar, junto com o
+exploracionista... A gente recebia, por exemplo, uma área para analisar, então você tinha que
+levar um geólogo e um geofísico para analisar, pegar aquela informação, fazer um estudo de
+viabilidade, todas aquelas coisas, para saber, se desse óleo, o que teria? Se desse óleo, como é
+que a gente poderia produzir, de acordo com o contrato, qual era a rentabilidade e tal. E um
+cara que foi muito importante para mim nessa época foi um cara que você deve conhecer,
+chamado Wagner Freire.
+
+17
+
+S.L. – Não.
+N.M. – Wagner Freire foi presidente... diretor da Petrobras. Ele foi diretor da Petrobras...
+S.L. – Foi depois desse momento.
+N.M. – Foi depois desse momento. Ele chegou a ser diretor, mas ele era um diretor da Braspetro
+já, na época. Então, quando me chamaram para lá, eu entrei na sala dele e ele falou... Ele sabia
+quem eu era, mais da parte técnica, ele falou: "Você não traz um projeto aqui na minha frente
+sem trazer o cash row. Sem trazer uma análise financeira desse negócio". Isso a mim marcou,
+porque eu voltei, depois de anos, a cair na realidade...
+S.L. – O senhor teve de retomar...
+N.M. – De retornar, porque aquilo...
+S.L. – É um trabalho de custos, não é?
+N.M. – Exatamente, porque aquilo era um negócio. Porque quando você está na Petrobras, ou
+quando você está na Shell ou quando está na Esso, aquilo é tão departamentalizado que você...
+Se você não estiver no setor específico disso, você perde o contato. Diz: "Eu vou colocar um
+navio aqui, vou colocar isso..." Mas depois você passa para alguém que vai fazer a procura do
+navio, que vai ver onde é que faz, com quantos meses.
+S.L. – E não há retorno, não é?
+N.M. – E não há muito retorno. O retorno vai para cima, para o nível de gerência. Então, fica
+difícil um negócio desses.
+S.L. – Nesse momento, a Braspetro estava bastante consolidada já? Ela já tinha uma política
+muito agressiva em relação a mercados, início dos anos 80.
+
+18
+
+N.M. – Nos anos 70, ela era muito agressiva, eu diria mais em função do Wagner. O Wagner é
+uma pessoa que deu suporte. Você pode entrevistar, ele é um cara interessante. Ele é um
+visionário. Era. Ele agora, nesse leilão que nós fizemos, ele conseguiu convencer um pequeno
+investidor e entrou em exploração.
+S.L. – Ele mesmo? É?
+N.M. – Entrou em exploração. Ele conseguiu um negócio... "Pô, Wagner, vai devagar". Vamos
+dizer que o cara entrasse em produção, mas... Mas é um cara visionário. Então, ele... Nessa
+época, a Braspetro tinha dinheiro. Por quê? Porque ela teve que renegociar o Majnoon com o
+Iraque e recebeu acho que 300 ou 400 milhões de dólares, em compensação daquilo que ela
+tinha feito. Então, eu tinha o dinheiro, fiz uma campanha na Líbia, tinha no Egito, fui em uma
+primeira campanha em Angola, tinha na Guatemala e em uma série de outros países desses,
+tentando aquelas coisas aí. O que acontecia muito na época era a ciumada entre Petrobras e
+coisa.
+S.L. – Entre Petrobras e Braspetro?
+N.M. – E Braspetro.
+S.L. – A própria mãe e filha.
+N.M. – Era, porque o... Se você olhar uma coisa, a Petrobras tinha crescido bastante, muita
+gente... Por exemplo, na África, todo mundo gostaria que a Petrobras fosse para a África. Só
+que aqui era monopólio. Então, quando você vai para um país desses, evidentemente você tem
+que dar uma contrapartida. "Eu quero entrar em Angola". Angola tem algum interesse no
+Brasil, tem... Você não podia fazer isso. Então, na Líbia, você não podia dar a contrapartida,
+no Reino Unido você não podia. Por quê? Por causa do monopólio. O que a Petrobras fez?
+Criou a Braspetro que é uma companhia praticamente nas Ilhas Cayman e que estava livre
+dessas questões. Por exemplo, se a Petrobras comprava óleo em Angola, aí chegava lá, os
+navios da Petrobras davam um problema qualquer e tinha que pagar uma sobrestadia, a
+Braspetro não era responsabilizada, porque... por aquela coisa toda aí, não é? Então, tinha essa
+
+19
+
+característica. Então, o que aconteceu? Nós íamos, como Braspetro, para fora, e eu chegava,
+por exemplo, num local, eu chegava lá em Gana, aí eu falava para o cara: "Eu trabalho na
+Braspetro". Aí o cara escutava Petrobras.
+[FINAL DA FITA 1-A]
+N.M. – ...dado momento, o monopólio passou a atrapalhar a Petrobras.
+S.L. – Eu queria entender melhor esses entendimentos, da Petrobras desenvolver... Por
+exemplo, na Líbia... Porque a Petrobras era o governo brasileiro de alguma maneira, em todas
+essas investidas, não é? Em que sentido, exatamente, o monopólio impedia que essas
+negociações fossem adiante?
+N.M. – Por exemplo, vamos supor que o... Por exemplo, um exemplo típico, o de Angola: eles
+tinham uma companhia que queria se internacionalizar. Nós estávamos lá, eles queriam uma
+contrapartida aqui, e nós não podíamos dar porque o monopólio dizia que só...
+S.L. – Ah, sim.
+N.M. – O nosso monopólio.
+S.L. – A Sonangol.
+N.M. – A Sonangol. Na Colômbia, a Ecopetrol, nós estávamos lá...
+S.L. – Mas eles não podiam estar aqui.
+N.M. – Eles não podiam estar aqui. Você conseguia uma parceria no Mar do Norte com alguém,
+aí o camarada: "Mas e agora? Vamos tentar ver uma parceria no Brasil". Não pode. É essa coisa
+de começar a travar. Então, as oportunidades começavam a ficar mais difíceis.
+
+20
+
+S.L. – E por sua vez, a Braspetro, também, eu posso também estar enganado, na verdade, ela
+era muito mais uma desbravadora de possibilidade. Porque a parte técnica, ela tinha um quadro
+próprio de pessoal para fazer estudos? Ou, nesse momento, a Petrobras entrava com seus
+técnicos?
+N.M. – Não, nós tínhamos o nosso quadro para fazer os estudos. Na hora de operacionalizar,
+de colocar em produção, você tinha que fazer isso com a Petrobras.
+S.L. – Ah, aí é que entrava a Petrobras.
+N.M. – É, a Petrobras fornecia, em geral, aquele cara da operação, como faz até hoje, não é?
+Como faz até hoje. Quando você precisa de um geólogo para ir para o campo, a Petrobras
+oferece, mas trazer um gerente para ficar gerenciando a Braspetro, mesmo hoje, na Petrobras
+Internacional, é difícil pra caramba. É difícil porque eles sempre dão prioridade para a parte
+doméstica. A prioridade sempre é doméstica. Onde é que nós estávamos?
+S.L. – Nós estamos na África. Nós estamos nesse momento...
+N.M. – Não, na hora que eu entrei para lá.
+S.L. – É, nós estamos no início dos anos 80, o senhor na Braspetro, como chefe da área de
+Produção e Reservatórios. E depois, nesse momento seguinte, quando o senhor se torna gerente
+de Produção, aí que o seu currículo detalha todos esses países. Quer dizer, a impressão que a
+gente tem é que o senhor passou esses três ou quatro anos viajando direto.
+N.M. – Não, é porque eu fiquei... Houve uma modificação interna na Braspetro e eles
+separaram isso por área geográfica. Então, eu não me lembro nem da minha área. A minha área
+eu acho que era Oriente Médio e América Latina, um negócio desses. Então, eu trabalhava aqui
+no Rio, trabalhava aqui com o pessoal de Colômbia e com aquela parte lá do Oriente Médio.
+A África já era um outro grupo. Depois é que eu passei para a África. Mas, inicialmente, eu
+trabalhei mais com Líbia, com Qatar, com aquelas coisas todas, e com as nossas áreas aqui, de
+Colômbia, onde nós estávamos...
+
+21
+
+S.L. – Equador.
+N.M. – O Equador, onde nós estivemos, no Peru, estivemos fazendo estudos. Mas isso não foi
+durante muito tempo, não.
+S.L. – É, aqui diz de 87 a 90. Agora, a impressão que a gente tem é que, na verdade, essa
+investida... O que resultou de concreto? Eu estou vendo aqui, eu acho que... No Peru, por
+exemplo, houve algum resultado concreto?
+N.M. – Não. Não, porque é o negócio, você vai lá para ver se dá certo. Por exemplo, nós fomos
+à Guatemala...
+S.L. – Também não...
+N.M. – Não deu porque nós furamos o poço, o poço deu seco. Onde é que nós tivemos um
+resultado bom? Em Angola. Em Angola, nós estivemos lá, chegamos a produzir, no começo
+de 90, produzir 110 mil barris.
+S.L. – Pacassa é dessa época?
+N.M. – Pacassa. Mas Pacassa é da Elf. Nós fizemos trabalhos para eles.
+S.L. – Mas vocês fizeram algum trabalho ali.
+N.M. – Nós fizemos trabalhos para eles, trabalho de plataforma de injeção, Palanca e Pacassa.
+S.L. – Palanca e Pacassa, exatamente. Anos 80 ainda.
+N.M. – Nos anos 80. Deixa eu ver onde nós estivemos. Nós descobrimos óleo na Líbia, mas o
+problema é que era no deserto e não era econômico. Você descobre a coisa e nem sempre é no
+
+22
+
+volume que você imagina. Mas ficamos algum tempo tentando viabilizar aquilo lá, na bacia de
+Marzouk, na Líbia.
+S.L. – Que é um grande... é um produtor médio.
+N.M. – É, a Líbia, eu diria que é o único país que cumpre à risca aquelas determinações da
+Opep. Eu não me lembro nunca de ver a Líbia passando daquelas cotas da Opep.
+S.L. – As cotas de produção.
+N.M. – A Nigéria, aqueles caras estão sempre querendo vender o máximo, e a Líbia tem uma
+reserva razoável e uma população pequena e mantém aquilo. Eu gostei muito da Líbia. O
+pessoal...
+S.L. – Conheceu o Kadafi?
+N.M. – Não, eu conheci o Kadafi de ver assim. Mas a impressão que a gente tem, de fora, é a
+impressão... é o anglo-americano. Em 88, nós estávamos lá, quando eles bombardearam aquela
+coisa lá...
+S.L. – O palácio do governo.
+N.M. – ...o palácio, Bengasi, os caras nos pegaram e nos levaram para ver. Porque eles, em vez
+de bombardearem a embaixada da OLP, eles bombardearam uma escola. Então, eles
+bombardearam o aeroporto e bombardearam o ponto de táxi. Está entendendo? E os caras então
+pegaram os estrangeiros para mostrar aquela coisa. Foi um negócio esquisito pra caramba, não
+é? Mas eu queria dizer o seguinte a Líbia, o Kadafi está tentando sair daquela coisa da Idade
+Média. Então, lá a mulher serve o exército, trabalha; aqueles caras que gostam só de
+comercializar, ele criou escola. Tem faculdade lá que não tinha aluno. Porque você convencer
+o "arabão" a entrar ali naquilo é complicado. Em Bengasi, tinha uma excelente universidade
+com pouquíssimos alunos. Porque eles têm aquela natureza nômade, não é? Mas estava... Eu
+não vou lá há mais de dez anos, mas eu achava que eles estavam tentando progredir, dando
+
+23
+
+uma oportunidade para o povo. Diferente de quando você vê, por exemplo, o Emirado, que não
+tinha aquela preocupação de integrar o cara no... Até talvez mais pela proximidade da Itália e
+da Iugoslávia. Aquilo talvez faça...
+S.L. – A Líbia, não é?
+N.M. – A Líbia faça alguma coisa desse tipo. Mas nós tivemos duas campanhas na Líbia e
+estamos com a terceira agora.
+S.L. – Ah, é?
+N.M. – É, tivemos duas campanhas na Líbia, não deu nada...
+S.L. – É engraçado usar esse termo, campanha, é uma coisa militar, não é? Campanha da Líbia.
+Parece a Segunda Guerra Mundial. [Risos] O Rommel.
+N.M. – A gente trabalhou exatamente lá. Por exemplo, em Bengasi, onde eu... Eu cheguei a
+dar aula na Líbia, para o pessoal de lá. Em Bengasi, aquela Cyrenaica, é ali onde teve as maiores
+batalhas do deserto. E antes do petróleo, uma das grandes fontes receitas da Líbia era vender
+material... era ferro-velho.
+S.L. – Ferro-velho da Segunda Guerra.
+N.M. – Daquela guerra daquele deserto ali. Agora, tinha um outro detalhe também, isso aí é
+interessante, o tempo que eu estive na Líbia, eu não consegui ir a lugar nenhum. Sabe por quê?
+Todas as fronteiras do país estavam fechadas. [Risos]
+S.L. – Com o Egito, com a Tunísia...
+N.M. – Com a Tunísia, com o Chade, e eles não tinham boas relações com a Argélia naquele
+tempo.
+
+24
+
+S.L. – E também não tinha com a Argélia.
+N.M. – Não tinha. Para você fazer qualquer coisa, tinha que voltar para a Europa.
+S.L. – Para Roma?
+N.M. – É, tanto que o nosso grupo morava em Malta. Morava ali.
+S.L. – Na Ilha de Malta.
+N.M. – Porque você não podia fazer nada.
+S.L. – Que experiência, hein? Interessante. E a Nigéria, que é um grande produtor, vocês não
+encontraram nada também.
+N.M. – Também nada. A Nigéria, agora, nós... De vez em quando eu tenho umas ideias boas,
+eu falei para você, não é? Quando eu voltei para cá, quando eu saí da Braspetro e vim para cá,
+eu fiquei na parte de parcerias. Porque eu, na realidade, eu voltei para me aposentar, não é? Eu
+estou lá, passei muito tempo, ia me aposentar. Mas aí, naquele cenário de quebra do monopólio,
+me colocaram: "Não, vamos... Você dá uma contribuição aqui, porque você conhece muita
+gente lá fora". Me [inaudível] em parceria. E quando eu estava nessa parte de parcerias, que foi
+uma coisa anterior até à coisa da ANP, foi uma ação proativa da Petrobras para se preparar para
+a chegada da ANP e perder as concessões, então eu negociei Angola... a Nigéria com a Texaco,
+porque o gerente da Texaco tinha sido meu amigo em Angola. Então, é aquela coisa das
+contrapartidas. Tinha quebrado o monopólio...
+S.L. – Agora já podia dar.
+N.M. – Aí, a gente tinha um campo aqui que a gente achava que era antieconômico. Então,
+colocamos...
+S.L. – Aí...
+
+25
+
+N.M. – Não, foi assim: começamos a negociar com isso... Mais uma vez, os meus amigos da
+Petrobras só gostam de Mar do Norte e...
+S.L. – E Golfo do México.
+N.M. – E Golfo do México, não é? Aí, nós queríamos fazer uma contrapartida com a Texaco.
+Eles falaram: "Não, nós queremos ir para o Golfo". Aí o cara ofereceu uma oportunidade no
+Golfo do México. Apareceu aquela oportunidade. Aí, as nossas discussões internas
+intermináveis, os caras da Texaco chegaram com uma sonda em cima do local onde ia furar.
+Eu digo: "E agora? Agora não dá tempo de decidir". Então, tiraram. Continuei discutindo,
+através de uma outra oportunidade. Aí, os caras... Esse cara nos ofereceu uma oportunidade na
+Nigéria. Aí eu falei: "Tá bom, vamos fazer isso". Estava quase para furar o poço, aí eu tive que
+dar uma espanada nos caras: "Poxa! Vamos perder de novo essa chance?" Dei uma espanada
+nos caras, fiz uma teleconferência com o pessoal de Houston e eles aceitaram então negociar
+esse nosso campo antieconômico...
+S.L. – Que é aonde?
+N.M. – É na bacia de Campos. [Negociar] com essa possibilidade na Nigéria. Nós teríamos 8%
+daquilo. Muito bem. Até hoje esse negócio da bacia de Campos não entrou em produção, e
+quando se furou o da Nigéria, deu um campo gigante lá, que é o campo de Agbami. Aí, o que
+eu fiquei mais furioso foi que eles, eles, que não queriam, botaram no jornal: "Braspetro
+descobre óleo na Nigéria".
+S.L. – Plantaram essa notícia.
+N.M. – Plantaram a notícia. Quem descobriu foi a Texaco, e eles não queriam. E foi aonde nós
+começamos a voltar para a Nigéria, em função disso. Aí, o que aconteceu? O preço do óleo
+caiu pra caramba – o óleo da Nigéria é bom, mas o daqui é ruim – então, a Texaco foi adiando,
+adiando, adiando o projeto, e só vai entrar em produção agora, em 2007. E na Nigéria está
+produzindo.
+
+26
+
+S.L. – Está produzindo já há algum tempo.
+N.M. – Isso é sorte.
+R.L. – É uma loteria, não é?
+S.L. – É, tem esse lado loteria.
+N.M. – Tem o lado loteria.
+S.L. – Tem um lado loteria, não é? E é um lado caro, não é? Porque essa fase de perfuração, eu
+imagino que...
+N.M. – É, essa é uma loteria terrível. Eu diria que, em média mundial, em cada dez join
+ventures, nove dão erradas. E aquela que dá certo tem que pagar as outras.
+S.L. – Tem que pagar as outras, exatamente. Seguindo esse...
+N.M. – Bom, eu não sei mais. Você que conduz aí porque eu não me lembro mais de nada.
+S.L. – Não, eu estou acompanhando bem. Eu acho que nós estamos agora... O senhor tocou por
+alto... O senhor ficou muito tempo em Angola. Quando o senhor foi gerente-geral da Braspetro
+em Angola, o senhor ficou lá, baseado lá, de 90 a 93.
+N.M. – Foi, mas trabalhei lá desde 84, indo e vindo.
+S.L. – Indo e vindo, não é? Quer dizer, pegou guerra civil...
+N.M. – Eu peguei todas as fases da guerra. Todas as fases. Sendo que em 92, que foi aquele
+pior momento, eu era o gerente-geral, eu pedi para todo mundo ir embora, fiquei só eu lá. Fiquei
+eu e o camarada da Agip, o resto foi todo mundo embora.
+
+27
+
+S.L. – A italiana, não é?
+N.M. – A italiana. Então, o que aconteceu foi um troço interessante, nós ficamos em casa,
+presos, porque a guerra... Tinha uma favela atrás da minha casa, que eles chamam lá de
+mussepe, e o pessoal da Unita fugiu para lá. Então, as tropas do governo ficavam atirando por
+cima das casas. Foi uma coisa... Eu fiquei três dias em casa.
+S.L. – Sitiado.
+N.M. – Sitiado. E eu dei uma sorte muito grande naquele dia: já tinha aquela confusão toda,
+nós tínhamos um plano de contingência... Porque o nosso grupo morava perto do aeroporto,
+eu, como era o gerente-geral, eu morava na cidade. Porque eu achava que eu tinha que morar
+do lado da Sonangol, da Chevron... Então, eu tinha que ficar ali, não é? Então, o nosso pessoal,
+que era mais o pessoal de operação, eu digo: "Olha, quando começar a piorar o negócio, vocês
+vão embora". O pessoal, eu acho que foi para a Namíbia ou África do Sul, um local desses, e
+eu fiquei lá. Nesse dia que estava começando a piorar as coisas, eu tinha ido a um jantar com
+o pessoal da Texaco, de noite, e ia ter uma confrontação no dia seguinte, porque a Unita disse
+que ia fazer um discurso no centro de Luanda, e o governo disse que não vai fazer, não vai
+permitir. Na véspera, tinham me convidado para um jantar, eu fui ao jantar de noite. Quando
+eu cheguei nesse jantar, só tinham os estrangeiros. [risos] Não tinha...
+S.L. – Não tinha um angolano.
+N.M. – Não tinha angolano. Aí, vieram saber o que era. E os caras estavam... Eu digo: "Bom,
+eu vou embora". Quando eu voltei, já tinha um monte de tropa na rua, eu tive que sair cruzando
+– porque eu conhecia bem a cidade, não é? – para chegar em casa. Mas não liguei muito, porque
+lá volta e meia tinha aquela coisa, tinha explosão, sabotagem, o cara derrubava a rede de energia
+elétrica e nós passávamos três semanas sem luz... Para você ter uma ideia, onde eu morava,
+tinha o gerador do prédio e eu tinha dois geradores em casa.
+S.L. – Dentro de casa.
+
+28
+
+N.M. – Dentro de casa. Porque um não aguentava ficar muito tempo ligado, tinha que ficar
+trocando para não estourar. Mas aí eu digo: "Está bom". De manhã – eu ainda saí antes do tal
+comício que ia ter, que era de manhã – eu fui lá no escritório, olhei, passei no clube, porque eu
+jogava tênis lá, aí conversei com um amigo meu, um soviético: "Vamos jogar?" "Vamos". "Eu
+vou passar aí umas quatro horas da tarde". Marquei com ele às quatro horas da tarde para jogar.
+Eu estava saindo de casa quando deu a primeira explosão, porque um helicóptero do governo
+jogou um foguete em cima do hotel da Unita. Foi assim que começou.
+S.L. – O quartel-general estava em um hotel?
+N.M. – Eles estavam em um hotel, em um hotel bem perto da Sonangol, não é? Aí eu voltei
+para casa e passei três dias em casa. Se eu tivesse ido para o clube, eu tinha ficado três dias no
+clube. Aí foi uma coisa... Eu escutei...
+S.L. – O senhor ia muito a Cabinda?
+N.M. – Nós íamos a Cabinda eventualmente. Nós não tínhamos nada...
+S.L. – Não tinha nada em Cabinda.
+N.M. – Não, Cabinda é Chevron.
+S.L. – Porque a guerra civil eu acho que não chegou a Cabinda, não é?
+N.M. – Não, Cabinda já tem a guerra, até hoje, que é Flac.
+S.L. – Ah! A Flac está lá?
+N.M. – Está lá, a Frente de Libertação Armada de Cabinda. Ela continua lá até hoje.
+S.L. – Eles querem fazer um país independente?
+
+29
+
+N.M. – Um país independente.
+S.L. – Porque Cabinda é um enclave.
+N.M. – Exatamente.
+S.L. – Ele não é contínuo. É perto do Congo, não é? É lá no sul do Congo Brazzaville.
+N.M. – É, é acima. Nós chegamos a comprar um bloquinho lá, mas nunca pudemos operar.
+S.L. – Porque é grande produtor, Cabinda.
+N.M. – É, mas é offshore.
+S.L. – Ah, é offshore.
+N.M. – Mas em terra, nunca se conseguiu operar por causa da Flac. É uma outra tribo, outro...
+S.L. – Engraçado, eu nunca tinha ouvido falar da Flac.
+N.M. – Tinha Flac, MPLA...
+S.L. – MPLA é o partido do governo.
+N.M. – ...Unita...
+S.L. – Unita e aquela outra...
+N.M. – ...o FNLA. Essas coisas todas e a Flac.
+S.L. – A Flac eu não sabia que tinha, que Cabinda tinha um movimento de libertação.
+
+30
+
+N.M. – Tem, tem essa coisa toda lá. E às vezes lá você é obrigado a fingir que as coisas não
+existem. Porque uma vez esses caras chegaram, e eu estava na casa do cara, os caras foram lá
+e dinamitaram a passagem do oleoduto, entre o mar e a... aquela zona de transição, não é? Foi
+uma confusão. E ainda queimaram os carros da Chevron. E o cara avisou isso para o governo,
+e o governo falou: "Não existe isso". Está entendendo? Nunca saiu uma notícia.
+S.L. – É, não sai a notícia.
+N.M. – A censura era total, então não tinha saída. Então, essas notícias eram terríveis lá. Mas
+nesse período, nesse negócio da guerra, o gozado é que eu cheguei em casa e falei para a minha
+mulher... Ele ficou apavorada, "O que você vai fazer?" Eu digo: "Eu sei o que eu vou fazer".
+"O que você vai fazer?" "Eu vou tomar banho, porque vai faltar água e eu vou ficar aqui... Vai
+faltar água, luz..." [risos] Ela ficou... Mas foi exatamente o que aconteceu, não é?
+S.L. – Quer dizer, enquanto o senhor estava lá, o senhor estava com a família toda, com os
+filhos e tudo?
+N.M. – Não, só a minha mulher, não tinha mais nada. Mas foi um negócio interessante, porque
+teve um determinado momento, durante esses dias, que os caras invadiram todos os
+apartamentos. No meu caso, o cara chegou só na porta. Como ele me conhecia, o capitão me
+conhecia, sabia que eu não estaria atirando nas costas da tropa dele, não é? Mas invadiram.
+Mas aí...
+S.L. – Quer dizer, o governo, não é?
+N.M. – É, o governo. Nós tínhamos dois escritórios em Angola, o escritório das sondas e o meu
+escritório. E ficava pertinho um do outro. Só que o nosso escritório das sondas, que era da
+Brasoil, ele ficava bem pertinho de um quartel da Unita no local. Ele foi totalmente saqueado.
+Levaram tudo, levaram lâmpada, levaram pia, levaram... A mesma coisa na Texaco. E no meu
+escritório, na hora que eles estavam começando a saquear... Três dias depois, eu tive uma
+inspiração. Eu digo: "Eu vou sair de casa..." O meu escritório ficava a uns três quilômetros de
+
+31
+
+onde eu morava. "Não vou sair de carro..." Porque o meu carro tinha sido metralhado, furaram...
+Estava lá na garagem, mas foi metralhado, o capô estava com marca de metralhadora em volta.
+Eu digo: "Eu vou a pé até lá e vejo". Quando eu cheguei lá, em frente ao escritório tinha uma
+turma, um monte de mulheres se preparando para invadir o escritório. Eu cheguei lá, todas elas
+em respeitaram, não aconteceu nada no escritório. Não saquearam. Eu entrei lá, evidentemente,
+porque não tinha pegada, não tinha sido metralhado, aquelas coisas todas lá. Mas então...
+S.L. – Nós aqui realmente nunca tivemos tantos detalhes assim, em relação a...
+R.L. – Porque a gente é voltado para a Europa e os Estados Unidos.
+N.M. – Pois é, mas... Lá é uma coisa terrível. Aquilo ali é uma coisa terrível. Lá, nesse período
+agora, que vai começar o período de chuva, morre gente de sarampo, de cólera. Esse negócio
+de Aids não tem o menor ibope. Pelo menos na minha época, os caras estavam [inaudível] com
+o negócio de malária. Eu peguei umas seis malárias ou sete malárias em Angola e mais uma
+em Gana. Quando eu peguei uma em Gana, eu quase morri. Então, é...
+S.L. – É uma história aí...
+N.M. – Eu estava dizendo para a secretária hoje que está fazendo treze anos que eu fiz uma
+operação na vista, por causa dessa malária em Gana. Treze anos? Foi em 88 que eu fiz.
+S.L. – Mais, não é? Dezessete anos.
+N.M. – Dezessete anos, não é? Eu me lembro que no dia 1o de dezembro de 88 eu estava em
+Houston para fazer isso, eu tinha a operação era no dia seguinte. Aquele cara, aquele Abdala
+Moura, que operou o Tostão...
+S.L. – Ah, sei. Foi ele?
+N.M. – Foi com aquele mesmo cara. São coisas aí que a gente, evidentemente, raramente tem
+oportunidade de conversar, a não ser entre nós mesmos.
+
+32
+
+S.L. – É, mas tem muita coisa aí, muita história. Muita história. Aí, depois o senhor volta para
+o Brasil e fica, de 94 a 2001, pelo o que eu estou entendendo aqui do seu currículo, o senhor
+volta para a Petrobras.
+N.M. – Eu volto para a Petrobras.
+S.L. – Para a Engenharia de Produção, a área de Novos Negócios. Mas, pelo o que eu estou
+entendendo também, é o mesmo métier, vamos dizer assim, só que não mais na Braspetro.
+N.M. – É, porque era uma coisa do Brasil agora. Era diferente. Aqui nós estávamos tentando
+fazer negócio com empresas internacionais. Nós estávamos querendo abrir oportunidades aqui.
+Evidentemente, primeiro é trazer investimentos para cá. Pegar algumas áreas que nós
+considerávamos que não eram prioritárias para nós, ou talvez porque não tínhamos tecnologia
+ou porque não tínhamos dinheiro, e tentar interessar alguma empresa internacional em vir para
+cá investir. É claro que as empresas internacionais, na hora que você abria o dinner, elas só
+queriam aquelas coisas que a gente não ia dar, não é? E a gente tinha que dar aquelas coisas
+que a gente queria. Então, fica esse jogo, não é? Foi nessa oportunidade que nós conseguimos
+negociar com a Shell essa parte de BC-10 que tem aí, essas descobertas; com a Total, uma parte
+em água ultra profunda; com a Chevron...
+S.L. – Essa Total é um nome para mim muito pouco familiar. Ela é nova?
+N.M. – Não, a Total é muito grande. É porque ela tinha uma influência muito grande...
+S.L. – Ela tem esse nome...
+N.M. – Há muitos anos. A Total, na França existiam duas grandes estatais: a Elf–Aquitaine e
+a Total. A Total era muito mais ligada à parte petroquímica e à parte de abastecimento e tinha
+uma atuação muito grande na Ásia. A Total está no Vietnam, está naquelas antigas colônias
+francesas, enquanto que a Elf estava mais para o oeste da África e norte da África.
+
+33
+
+S.L. – Ambas estatais?
+N.M. – Ambas estatais. Aí, houve... Elas primeiro foram parcialmente privatizadas e depois,
+há alguns anos atrás, eu acho que não chega a cinco anos, a Total anexou a Elf. Antes, ela
+comprou uma outra também, chamada Petrofina, que também trabalhava em Angola, que era
+belga, e que também era nossa sócia. A Petrofina era nossa sócia lá em Angola. Então, o que
+aconteceu? Primeiro, a Total comprou a Fina. Até, a origem da Fina era origem portuguesa.
+Depois virou belga, mas... Também trabalhava na parte de downstream. A única refinaria de
+Angola era da Fina, da Petrofina. E o que aconteceu? A Total comprou a Petrofina. Ela passou
+a ter uma influência também no oeste da África. Porque a Fina, porque era em Portugal, já tinha
+aquela influência. Ela passou a ficar maior e, no final das contas, ela acabou anexando a Elf.
+S.L. – Então, é uma grande empresa.
+N.M. – É uma grande empresa. Ela, até o ano passado, o nome dela era Total Fina Elf. [risos]
+S.L. – Total Fina Elf.
+N.M. – Total Fina Elf. Você já deve ter ouvido falar. Depois, no ano passado, eles colocaram.
+Como a Chevron Texaco. A Chevron comprou a Texaco e ficou Chevron. A partir desse ano,
+acabou o nome Texaco, é só Chevron. A partir desse ano, recentemente.
+S.L. – É, é o momento de concentração...
+N.M. – É como Exxon Mobil Amoco. Agora, praticamente é só Exxon. Não, a Amoco é com
+BP.
+S.L. – A British Petroleum
+N.M. – A Amoco agora é só BP. E a Exxon Mobil, eu não escuto mais falar em Mobil. Você
+escuta mais?
+
+34
+
+S.L. – Não, não.
+N.M. – Só ouve falar em Exxon. Então, são essas coisas que...
+S.L. – Esse momento é de concentração da indústria petrolífera, não é?
+N.M. – De concentração. Então, eu vim para cá para fazer essa coisa. Aí eu tive uma outra
+inspiração, que foi a que começou lá... que culminou agora, não é? Quando nós chegamos aqui,
+me colocaram, eu disse assim: "Vamos fazer uma coisa aqui..." Eu ia trabalhar em uma coisa
+chamada análise de desempenho, análise de não sei o que. Aí eu digo: "Muito bem. Mas o que
+vem a ser isso?" Aí o camarada falou: "Não, isso aí é para saber se o nosso óleo está saindo de
+acordo com isso, se está produzindo água, se as características..." Eu digo: "Mas isso não mede
+desempenho de nada!" Mas tinha uma série de índices que a Petrobras coloca. Parecia um
+verdadeiro Ministério da Fazenda, com aqueles IGPs, IGPM. Eu digo: "Mas para que é que
+serve isso?" Ninguém usa isso aí fora. Eu digo: "A gente, quando vai fazer uma análise de
+desempenho, a gente quer saber se aquele negócio é bom ou não. A gente faz uma auditoria do
+negócio. Então, vamos pegar um campo desses e ver quanto é que está produzindo, quantas
+pessoas estão trabalhando, qual é o nosso custo operacional, como é que o nosso investimento
+está retornando, qual é a expectativa. É isso que eu chamo de análise de desempenho". Aí, eles
+ficaram assim... Eu falei: "Vamos fazer umas tentativas?" Foi quando eu chamei a Maira para
+trabalhar comigo. Então, nós fomos fazer então umas auditorias em alguns campos da
+Petrobras. Começamos a fazer um na bacia de Campo, ficou foi uma coisa mais ou menos, mas
+quando eu fui para o Nordeste, eu fiz um...
+S.L. – O Barana, lá para cima?
+N.M. – Não, fizemos para Fazenda Belém, fizemos para Água Grande, na Bahia. Aí, quando
+nós olhamos aqueles resultados, um deles, flagrantemente, estava dando prejuízo para a
+Petrobras. Eu digo: "Não é possível". Aí refizemos, mostramos lá para a gerência, eles não
+gostaram...
+S.L. – São aqueles campos antigos?
+
+35
+
+N.M. – É, aqueles campos antigos. Aí, quando chegou no fim do ano, a Petrobras tinha que
+fazer aquele relatório de reservas, em que ela informa para o grande público qual é a reserva,
+quantos barris, quantos metros cúbicos de gás. Eu digo: "Olha, isso é muito bacana, a gente
+está fazendo tradicionalmente. Eu mesmo, lá nos anos 60, ajudei o Abib a formatar isso. O
+Abib foi meu chefe, foi o que inventou esse relatório aqui na Petrobras, e que a gente vem
+fazendo esses anos todos. Mas isso não funciona nesse cenário novo, não. A gente tem que
+informar para os caras quanto vale isso. Muito bem, eu tenho o campo do Roncador. E quanto
+vale o campo do Roncador? Tem aquela produção, mas será que ele está sendo produtivo? Será
+que, com aquele óleo ruim, ele está dando dinheiro?" Aí, depois de muita discussão interna,
+eles então deixaram que eu fizesse um trabalho que chamou de Valoração de Reservas. É pegar
+aquele relatório da Petrobras todo e transformar aquilo em dinheiro. Ver cada um daqueles
+campos, qual era a previsão de produção, qual era o preço do petróleo, quais eram os
+investimentos previstos – tudo para frente – quais os investimentos que seriam necessários,
+qual era o custo operacional, quais eram os impostos que tinham que pagar e saber quanto é
+que valeria aquilo em dinheiro de hoje. Isso foi uma loucura para ser feito. Porque eu estava
+coordenando isso, mas eu não posso fazer aquele trabalho todo. Nós fazíamos a metodologia e
+passávamos para as unidades fazerem. E os caras se recusavam a fazer. Falavam: "Isso é para
+vender a Petrobras". E alguns colegas... Mas se recusaram a fazer, pura e simplesmente, não é?
+Isso levou um monte de tempo até a gente conseguir fazer isso. Quando o negócio ficou pronto,
+que analisamos, aí nós verificamos o seguinte: na época, isso é em 98, a Petrobras tinha 290
+campos de petróleo, mas a receita...
+S.L. – Em operação?
+N.M. – Em operação. Tinha uns 280 e hoje deve ter duzentos e noventa e poucos, 296 hoje.
+Nós verificamos naquela época que a receita, 90% da receita, vinha de 40 campos. O resto...
+Tinha mais de 100 que, na realidade, davam prejuízos. Bom, eu tinha vindo de uma companhia
+desse tamaninho, o prejuízo a gente não suporta. Quer dizer, é prejuízo por quê? Porque a
+Petrobras tinha coisas melhores para fazer. Ela tem um staff grande, botava muita gente lá, mas
+não rendia. Mas os outros campos melhores levavam aquilo. Quando se fazia uma conta total...
+
+36
+
+S.L. – Não aparecia.
+N.M. – ...é lucro certo. É lucro certo. Mas quando você individualizava a concessão, que é o
+que a ANP olha, a concessão, cada uma de per si, você via que aquela força de trabalho que a
+Petrobras colocava lá, o que ela esperava, não pagava. Aí eu propus, naquela época: "Vamos
+vender isto". Pronto! Aí eu fui o anticristo.
+S.L. – Mas nessa altura, em 98, já tinha a Lei do Petróleo, o monopólio já tinha terminado...
+N.M. – É, já tinha a Lei do Petróleo. Tinha o Reichstul.
+S.L. – Tinha o Reichstul, não é?
+N.M. – E, em princípio, ele concordou com essa coisa. "Mas vender o quê?" Com aquela
+resistência toda, nós conseguimos então que as unidades da Petrobras conseguissem escolher
+aquelas coisas que eram rigorosamente desprezíveis, neglizíveis, como diz o americano, em
+termos de valor econômico, e passasse para a gente tentar fazer o negócio. E aí consegui alguma
+coisa, que era o lixo que tinha aí.
+S.L. – Mas dá um exemplo, assim, quem se interessaria por algo tão pouco atrativo?
+N.M. – Qualquer coisa depende da maneira como você está olhando isso. Nós vamos chegar
+lá. É aquele negócio do prisma, dependendo da face que você está olhando...
+S.L. – Do ângulo, não é?
+N.M. – Dependendo do ângulo que você está olhando, a coisa funciona. Bom, eu tenho essas
+coisas lá, descobertos os poços que foram furados... Campo de petróleo é aquela coisa onde
+você já tirou o risco geológico. Você já produziu...
+S.L. – Se produzir...
+
+37
+
+N.M. – Não tem aquela coisa. Então, nós pegamos isso... Ora, como eu tinha passado... Uma
+das minhas atribuições, também, quando eu estava como gerente aqui, era os Estados Unidos.
+Então, nós tivemos oportunidade nos Estados Unidos, chegamos até a produzir um pequeno
+campinho de petróleo, chamado Frederic, nos Estados Unidos.
+S.L. – Aonde isso?
+N.M. – No Golfo do México, nos anos 80. Era um campinho pequeno, daquelas coisas que a
+gente achava. E a gente sabia que essa indústria de pequeno produtor, nos Estados Unidos, é
+extremamente potente. No período de maior crise, nos Estados Unidos, tinham 7 mil empresas
+de petróleo. Hoje em dia têm 23 mil. Operam coisas desse tipo, pequenininho: dez poços, vinte
+poços. Então, isso era portfólio que a Petrobras tem que eu digo...
+S.L. – Uma coisa nunca imaginada aqui, não é?
+N.M. – É, nunca imaginada. De vez em quando eu tenho umas ideias. [risos] "Vamos tentar
+vender". Isso, em 98, não é? Tentar vender um negócio desses. Pegaram tudo, cada unidade
+trouxe lá o que eles acharam que era o lixo, a gente analisou, e daquele lixo eu achei: "Isso
+deve dar ainda alguma coisa". Algumas coisas realmente não prestavam, mas tinha muita coisa
+interessante. Nesse período, nós estamos fazendo aquelas parcerias, aí nós colocamos – eu diria
+que foi até de uma maneira meio afoita, não é? – Nós ofertamos para a indústria aquelas coisas.
+Ninguém se interessou para comprar.
+S.L. – Teve mídia?
+N.M. – Teve um pouco de mídia. Um pouquinho de mídia. Eles colocaram. Mas apareceu muita
+gente interessada em querer fazer parceria, não estava interessada em comprar. Todo mundo
+querendo só fazer serviço para a Petrobras. Aí eu digo: "Os caras, realmente..." Bom, outra
+coisa, nós estávamos voltados muito para o empresário brasileiro, não é? Aí eu digo: "Bom,
+vamos tentar outra coisa". Não deu certo, as propostas não eram aquelas coisas, eu digo: "Já
+que os caras querem fazer algum tipo de parceria..."
+
+38
+
+S.L. – Vocês ofereciam concretamente: "Nós temos esse campo aqui. Nós queremos tanto
+aqui".
+N.M. – É, e aí não apareciam. Aí eu resolvi fazer uma outra tentativa. Se a gente vai bater de
+frente, dá a volta, não é? Naquela época, a Venezuela tinha feito um leilão dos campos
+marginais dela. O campo marginal da Venezuela é do tamanho de Carmópolis, é aquela coisa
+imensa, e o meu era uma coisinha pequenininha, não é? Só que a Venezuela, no contrato da
+Venezuela, nada era negociável. Nada. Tudo era imposto. Uma dessas consultoras colocou:
+"Você vai lá, eu te pago tanto pela operação, a divisão de lucro vai ser essa". Eu li aquele
+contrato e disse: "Dá para nós fazermos uma coisa diferente". A estrutura era boa, mas eu falei:
+"Então, a estrutura é boa, mas eu negocio tudo". Então, lancei esse novo projeto de parceria.
+Então, peguei esse lixo e ofereci para os caras: "Olha, nós queremos fazer agora um tipo de
+contrato de serviço. Primeiro, a Petrobras continua sendo dona disso. Você vem aqui, opera
+para nós, nós te pagamos uma determinada taxa, negociável, para a tua operação, você investe
+o seu dinheiro. Se a produção aumentar acima dos níveis que tem atual, você divide esse lucro
+com a gente da seguinte maneira: eu deixo que você, enquanto você estiver no negativo, você
+recupere todo o teu dinheiro da produção incremental. Depois que você recuperar esse dinheiro,
+a gente divide o lucro. Você topa?" Toparam. Aí fizemos o negócio. Aí eu digo: "Bom, vamos
+fazer isso". Era uma coisa que eu coloquei, teve uma certa aceitação, apareceram várias... Só
+para a Bahia apareceram cinco empresas, e para o Rio Grande do Norte, para o Espírito Santo.
+Tudo dentro desse lixo, não é? E o Reichstul estava...
+S.L. – Tudo no campo de terra?
+N.M. – Tudo campo de terra.
+S.L. – Tudo de terra.
+[FINAL DA FITA 1-B]
+S.L. – Nós temos que chegar na ANP. Já estamos chegando.
+
+39
+
+N.M. – Estamos chegando. Isso daí foi que...
+S.L. – É a antessala, não é?
+N.M. – É a antessala. Mas aí nós pegamos essa coisa lá... É o que eu estou dizendo, tudo isso
+tem história. Eu não posso falar da ANP sem falar disso.
+S.L. – Exatamente.
+N.M. – Aí, nós pegamos esse contrato e colocamos para licitação. E o Reichstul, de uma certa
+maneira, como ele tinha uma visão... ele não era da Petrobras, ele não criou nenhum empecilho
+para que nós viéssemos fazendo esse tipo de abertura. Foi até... pleiteou um seminário que nós
+fizemos lá na Bahia, sobre isso aí. Na época, o ministro era o Rodolpho Tourinho, que também
+gostou da ideia, gosta dela até hoje. Aí, bom, nós resolvemos pegar... E eu digo: "Se nós
+fizermos um negócio desses na Bahia..." Como a gente tinha um staff muito pequeno, não podia
+tocar todos na mesma... Então, eu digo: "Vamos primeiro fazer a Bahia porque é onde tem mais
+resistência, os caras não falam mais nem comigo lá na Bahia. Quando eu vou no campo, eles
+se recusam a falar". Caras que eu conheço, não é? Que achavam que... Estavam com uma visão
+errada, que a gente ia demiti-los, não é? Aí, poxa, eu disse: "Vamos fazer na Bahia". Então,
+resolvemos fazer na Bahia. Negociamos e ganhou uma empresa que era uma associação entre
+o Banco Opportunity, que é grande, uma empresa de serviço na Bahia chamada Perbrás, que é
+uma empresa tradicional na Bahia, e que se associou com uma pequena empresa americana que
+não produzia nos Estados Unidos, produzia na Colômbia, chamada Petrosantander, e elas
+fizeram uma companhia chamada Petrorecôncavo. Esse nome quem inventou fui eu, está
+entendendo?
+S.L. – Petrorecôncavo.
+N.M. – É, eu digo: "Bota esse nome, Petrorecôncavo". Isso foi uma das coisas mais gozadas
+que eu já vi. Então, esses caras, com a experiência dessa companhia americana, eles pegaram
+aquele lixo e fizeram um trabalho de... Mas um trabalho de classe. O primeiro dia que eu olhei
+aquele trabalho, eu digo: "Isso que eu estava procurando para a gente fazer aqui nessas outras
+
+40
+
+áreas". Eles pegaram um conceito totalmente diferente do que eu esperava como um cara da
+Petrobras. Eu esperava que eles fossem trabalhar considerando o conceito de campo, aquelas
+coisas, fazendo estudos. Não, eles pegaram... Nós estávamos oferecendo uns trezentos e poucos
+poços e eles trabalharam cada um.
+S.L. – Poço por poço.
+N.M. – Poço por poço. Apresentaram um trabalho desse tamanho.
+S.L. – Quer dizer, uma avaliação minuciosa.
+N.M. – Minuciosa, poço por poço, como um trabalho de pequeno produtor. Poço por poço.
+Nós, na Petrobras, só procuramos as coisas grandes. Quando eu olhei aquilo ali, eu digo: "Poxa,
+é isso que eu estou querendo". Aí, passamos uns oito meses negociando, com esse cara e com
+mais quatro, dentro do mesmo negócio. Depois, a proposta desses caras ficou realmente
+imbatível, aí apresentei para o conselho e o conselho da Petrobras aprovou isso. O conselho da
+Petrobras aprovou e eles não tinham chegado a um acordo [inaudível]. Aí, eu estava com uma
+proposta aprovada pela Petrobras e os caras não chegavam a um acordo.
+S.L. – Os sócios, entre si, não é?
+N.M. – Os sócios. Esse contrato foi assinado na Petrobras às três horas da manhã. Porque eu
+cheguei e a Maira, que depois você vai conhecer, às onze horas da noite ela foi embora para
+casa. "O meu marido está em casa..." Eu, quando chegou às três horas, eu falei para o cara:
+"Olha, se chegar de manhã e vocês não assinarem, não tem mais contrato". Era um negócio que
+era bom para nós e para eles. Assinaram o contrato, tem esse nome aí. Então, eles pegaram.
+Essa coisa valeria para nós, na época, acho que o estudo que nós tínhamos, valia 20 milhões de
+dólares para eles. Com esse estudo do cara, passava a valer 38 para nós e 38 para eles. Era
+aquela coisa ganha-ganha. Então, esses caras pegaram esse lixo e, um ano depois... Esse lixo
+eram trezentos e poucos poços produzindo 1.800 barris por dia, sendo que o gás era todo
+desperdiçado. No fim de um ano, isso estava produzindo quase 5.000 barris por dia.
+
+41
+
+S.L. – O conjunto?
+N.M. – O conjunto, aqueles trezentos e poucos poços. E 500 mil metros cúbicos por dia de gás
+eram vendidos. Por uma nova concepção: eles mudaram a maneira de cada poço, prepararam
+aquela coisa. Então, isso serviu inclusive de paradigma para a Petrobras. E o mais interessante
+é seguinte: quando eu mostrei o estudo que eles tinham feito para a Petrobras, alguns amigos
+meus falaram: "Manda esses caras embora e nós fazemos isso agora". Eu digo: "Isso é ética de
+negócio. Nós estamos liquidados".
+S.L. – É, imagina!
+N.M. – Fazer um negócio desses...
+S.L. – Acabou, não é?
+N.M. – Acabou, você perde toda a credibilidade. Nunca mais você recupera. Mas todas essas
+coisas aconteceram nesse processo. Aí, foi um sucesso esse negócio.
+S.L. – Isso foi ainda em 98?
+N.M. – Em 2000.
+S.L. – Em 2000 já?
+N.M. – De 99 para 2000. Fechamos esse negócio da Bahia, aí muda a direção da Petrobras. Aí
+os caras não deixam fazer os outros dois, que eram no Espírito Santo e no Rio Grande do Norte.
+S.L. – E já estava tudo preparado.
+N.M. – Estava tudo preparado para nós fazermos isso lá. "Não vai fazer mais. Não vamos fazer
+mais esse contrato".
+
+42
+
+S.L. – Governo Fernando Henrique ainda.
+N.M. – É. "Agora nós vamos vender". Aquela volta. "Agora queremos vender". "Tá bom,
+querem vender? A gente vai colocar". Até porque já tinha esse benchmark desses caras, que
+estava trabalhando, que estava funcionando. Eu não me opus de vender. Aí, nós fizemos um
+novo estudo para aquelas coisas todas lá e estabelecemos um preço.
+S.L. – De venda?
+N.M. – De venda. Ora, quando você vende campo de petróleo é diferente de você vender área
+exploratória. A área exploratória, quando você vende, você já viu, já conversou com o Forman,
+você vende uma ideia. O cara é geólogo, o cara é geofísico, vê aquela coisa diferente. Mas
+campo não, você tem que dar o dado.
+S.L. – É, concreto.
+N.M. – Os caras vão ver praticamente a mesma coisa. Então, a diferença sua, como você está
+querendo comprar de mim que sou o vendedor, vai dar uns 10%.
+S.L. – Não tem muita margem, não é?
+N.M. – Não tem muita margem. Então, nós preparamos, colocamos lá o nosso preço, que era a
+venda pura e simplesmente. Aí a direção chegou lá e disse: "Não, isso está muito baixo", e
+multiplicou por três. De 53 empresas interessadas, só pareceram duas.
+S.L. – Abriram para empresa estrangeira também?
+N.M. – Estava aberto para empresa estrangeira. Apareceram duas. Mas, felizmente, as duas
+que ganharam eram nacionais, e pagaram ágio. Uma era a Marítima, que...
+S.L. – Essa companhia Marítima?
+
+43
+
+N.M. – É, a Marítima entrou nesse negócio.
+S.L. – É a Marítima de seguros?
+N.M. – Não sei. A Marítima tem até companhia de aviação, é um grupo muito grande.
+S.L. – É uma holding?
+N.M. – É uma holding muito grande. Então, comprou essa coisa, e uma companhia de São
+Paulo, chamada W. Washington, que também comprou, que é ligada... É muito ligada com esse
+negócio de privatização, de aeroportos, mas estava querendo diversificar e compraram esse
+conjuntinho de campos, não é? E nós estávamos: "Bom, esse negócio vai deslanchar". Não
+deslanchou nada. Aí mudou o governo de novo. Aí o meu amigo Estrela foi lá e cortou tudo.
+S.L. – O Estrela, não é?
+N.M. – O Estrela. Não tem mais nada.
+S.L. – Mas aí, como é que fica? Eles chegaram a comprar?
+N.M. – Compraram. Eles estão operando isso. Porque eles compraram.
+S.L. – Ah, estão operando.
+N.M. – Estão operando.
+S.L. – Quer dizer, não houve foi uma continuidade desse...
+N.M. – Não, não houve uma continuidade da parte de leilão de campos de petróleo. O leilão de
+área exploratória é uma outra coisa diferente, é isso que nós estamos vendo aí, já a sétima
+edição.
+
+44
+
+S.L. – Então, o leilão de...
+N.M. – De campo.
+S.L. – O leilão de campos parou, não é?
+N.M. – Parou. Aí foi um período... Bom, quando chegou esse momento, isso já foi em 2001,
+eu digo: "Bom, eu não tenho mais nada que fazer aqui. Não tenho mais nada o que fazer aqui,
+então agora está na hora de me aposentar mesmo, não é?" E eu falei que ia me aposentar, e
+tinha um rapaz aqui que era superintendente de coisa e me contratou como consultor para cá.
+Eu digo: "Tá legal. Eu não quero ficar em casa mesmo. Eu moro em Teresópolis, eu saio de
+casa, volto..." Aí vim para cá. Quando eu vim para cá, o embaixador me convidou para ser
+diretor aqui.
+S.L. – Houve aquela história da vaga, não é? Aquela rotatividade.
+N.M. – Eu não fiquei aposentado nenhum dia, porque eu saí da Petrobras num dia e entrei no
+dia seguinte aqui. Aí fiquei aqui como consultor, aí o embaixador... Aí, saiu...
+S.L. – Já era o embaixador Sebastião?
+N.M. – Já era o embaixador. Isso foi em dezembro de 2001.
+S.L. – É, ele assumiu em janeiro de 2002.
+N.M. – Em janeiro de 2002. Eu me aposentei, depois eu tirei as férias e quando eu vim para cá,
+logo depois, uns meses depois, ele me convidou. Bom, o que eu estava falando mesmo?
+S.L. – Agora chegamos à ANP.
+R.L. – Na diretoria.
+
+45
+
+N.M. – Aí, quando eu entrei na ANP, tinha umas coisas para ler...
+S.L. – O senhor já conhecia a ANP, tinha algum contato?
+N.M. – Nenhum.
+S.L. – Porque a ANP já existe desde 98. Já tinha...
+N.M. – O meu contato com a ANP era como o cara da parceria, do outro lado do balcão. Eu
+vinha aqui com os sócios para discutir com eles alguns programas, e conversava com o Pedrosa,
+com o pessoal aqui. Já conhecia porque eu tinha uma experiência de trabalhar com o regulador,
+porque eu trabalhava lá fora, como sócio, e lá fora eu tinha que ir no regulador da Líbia, no
+regulador da Sonangol, no regulador da Nigéria, no regulador da Noruega. Todos esses
+reguladores nós já tínhamos...
+S.L. – Esses países todos têm agências?
+N.M. – Todos eles têm agências. Eu, por exemplo, amanhã eu estou indo para a Noruega para
+fazer um contato. Porque eu não vou lá há quinze anos e eu estive recebendo o pessoal da
+Noruega agora e notei que eles melhoraram muito a regulamentação deles. Aí, eu estava
+programando uma visita, mas eles só conseguiram fazer essa semana. Eu digo: "Tá legal, eu
+vou". Então eu vou agora essa semana conversar com o ministério, conversar com o órgão
+regulador dele, que é o NPD, e mais algumas empresas...
+S.L. – Ela tem uma empresa estatal?
+N.M. – Tem!
+S.L. – Quer dizer, a Noruega tem uma empresa estatal, tem uma agência...
+N.M. – Tem uma agência e um ministério, exatamente...
+
+46
+
+S.L. – Um Ministério do Petróleo?
+N.M. – De Energia.
+S.L. – De Energia, também.
+N.M. – Eles têm exatamente a mesma coisa que a gente tem.
+S.L. – A Noruega é engraçado porque o consumo interno deve ser muito pequeno para a
+produção.
+N.M. – Muito pequeno.
+S.L. – Então, acaba sendo uma grande exportadora, não é?
+N.M. – É uma grande exportadora. Eles estão exportando agora quase três milhões de barris
+por dia. Dentro dessa faixa 2,8 milhões ou 2,7 milhões. E tem um consumo pequeno, é uma
+população pequena.
+S.L. – É, quatro milhões talvez.
+N.M. – Mas como eles ganharam muito dinheiro, eles estão investindo. Eles estão aqui no
+Brasil fortes.
+S.L. – Ah, é!?
+N.M. – Estão fortes aqui.
+S.L. – Nessa área de petróleo?
+N.M. – Nessa área de petróleo aqui. E agora chegou uma nova empresa deles, a Norsk Hydro,
+que era aquela forte em alumínio, que também é petróleo. Acabaram de comprar uma
+
+47
+
+canadense aqui. E têm uma presença grande na África também, lá em Angola. Eles estão
+pegando esse dinheiro que eles estão ganhando lá e semeando, porque o petróleo deles está
+declinando e eles precisam continuar ganhando isso mais adiante. Onde é que nós estávamos?
+S.L. – Nós estávamos exatamente...
+R.L. – Na chegada à ANP.
+S.L. – É, na sua chegada à ANP.
+N.M. – Aí eu cheguei, entre outras tarefas que eu tinha aqui, quando eu cheguei aqui, uma das
+primeiras coisas que apareceu na minha frente foi uma lista de poços da Petrobras para arrasar.
+Era uma série de poços, desses pequenos campos, que eles não queriam mais e queriam arrasar.
+Eu digo: "Hã, hã, mas não vai mesmo! Isso não vai". E aí eu suspendi aquela coisa, porque eles
+queriam... Já tinham um cronograma certinho. Aí eu digo: "Bom, agora eu vou conseguir tentar
+vender campo pelo lado do governo". Mas aí começou a guerra interna aqui. Porque o que se
+fazia aqui era vender área exploratória. Nunca ninguém tinha pensado em vender campo, esses
+pequenos campos. Então, essas coisas que a Petrobras devolvia, se colocava dentro das áreas
+exploratórias para mostrar que ali teve óleo, para provar. "Olha, aqui tem óleo".
+S.L. – Era um efeito demonstração para ele.
+N.M. – Demonstração: aqui teve óleo. Só que quem vai para a exploração é uma companhia
+grande, e uma companhia grande olha aquilo da mesma maneira que a Petrobras olha. Aí, se
+fosse assim, continuava marginal. Então, aquelas coisas, nós oferecíamos, iam e voltavam. Iam
+e voltavam e ninguém fazia nada. Aí, foi o que eu falei agora: "Não, vamos fazer isso. Vamos
+tentar excluir essas coisas de dentro da área exploratória e oferecer como campo".
+S.L. – Quer dizer, é um outro tipo de leilão, uma coisa totalmente autônoma.
+N.M. – Um outro tipo de leilão, o que nós fizemos agora.
+
+48
+
+S.L. – Vocês já fizeram o leilão?
+N.M. – Fizemos o leilão agora.
+R.L. – O sétimo, não é?
+N.M. – A sétima rodada, foi a Parte B. Apareceram 103 empresas nacionais e 83 se
+qualificaram, e nós vendemos todas as áreas para empresas nacionais, sendo que alguns lances
+tiveram 21 ofertas. Você não soube disso porque não leu o jornal.
+R.L. – Não, isso daí eu tenho acompanhado mais ou menos de perto.
+N.M. – Você viu, é?
+S.L. – É, isso aí eu [inaudível].
+N.M. – Não, eu sei que você não é do ramo, você está num ramo completamente diferente.
+R.L. – Por isso que eu digo, mais ou menos de perto, assim, pegando livros... [risos]
+N.M. – Não, eu estou falando com ele, porque isso foi a grande novidade dessa sétima rodada.
+Por isso é que eu estou contente hoje. [risos]
+S.L. – Mas a sétima rodada... Eu queria entender, porque nós estamos acompanhando bem essa
+história dos leilões...
+N.M. – Nós estamos na sétima rodada de leilões de áreas exploratórias. Ela é rigorosamente
+áreas exploratórias. Nós estamos na sétima. Então, não tem novidade.
+S.L. – Pois é. Então, a novidade qual foi?
+N.M. – A novidade é que teve dois dias de leilão...
+
+49
+
+S.L. – O senhor falou B.
+N.M. – Teve dois dias de leilão da área exploratória convencional e nós fizemos um leilão, que
+nós chamamos de Parte B, que foi desses campinhos.
+S.L. – E que é a grande novidade desse leilão.
+N.M. – Que foi a grande novidade.
+S.L. – E que pelo jeito, nos próximos, a ANP tem essa...
+N.M. – Se nós tivermos o que ofertar, porque a Petrobras ainda não mandou tudo aquilo. O
+meu alvo continua sendo os campos da Petrobras, que ainda são deles.
+S.L. – Ainda são deles?
+N.M. – Ainda é deles. Esses foram devolvidos para nós...
+S.L. – Ah, eles têm que devolver primeiro para vocês poderem disponibilizar.
+N.M. – Ou a gente tomar, se eles não fizerem investimento.
+S.L. – É, tem aquele negócio do prazo, não é?
+N.M. – É, do prazo. Então, o que aconteceu foi o seguinte, nós pegamos isso e fizemos o
+seguinte, a nossa rodada de área exploratória era uma rodada internacional, todas... A gente faz
+hold show em tudo quanto é lugar do mundo, faz uma divulgação em inglês... Eu digo: "Essa
+aqui nós não vamos divulgar, só no Brasil. Não vamos ter uma informação em inglês, tudo vai
+ser em português, porque o alvo é o nosso empresário, o empresário nacional". Eu não fui a
+lugar nenhum fora. Eu escolhi áreas, para testar, em Sergipe e na Bahia. Por quê? Porque eu
+conheço a Petrobras. Se você oferece um campinho desses em uma área que a Petrobras está
+
+50
+
+muito ativa, na hora do camarada querer vender o petróleo ou querer transportar o petróleo, a
+Petrobras diz: "Ah, as minhas instalações estão cheias. Não dão mais". Vai criar um monte de
+problemas. Então eu escolhi duas que eu tinha absoluta certeza que ela pode trabalhar, que é a
+Bahia e Sergipe, porque são instalações que foram feitas para quase 200 mil barris por dia e
+eles estão produzindo 40. Então, tem espaço de sobra.
+S.L. – Tem uma capacidade ociosa grande.
+N.M. – Tem uma capacidade ociosa muito grande e não tinha desculpa. E também não tinha os
+problemas ambientais para fazer isso. Então, eu só escolhi Sergipe e Bahia. E só noticiamos
+aqui no Brasil, sendo que, como era Sergipe e Bahia, eu fiz uma apresentação de lei aqui no
+Rio, porque era obrigatório fazer, que é o seminário técnico, fiz um hold show na Bahia e um
+em Sergipe, e não fui mais em lugar nenhum. A minha surpresa: apareceu empresa...
+S.L. – De todo o país?
+N.M. – É, do Rio Grande do Sul, e Minas veio em peso – a maior parte das coisas vendemos
+para a companhia de Minas, que não tem petróleo –, companhia de São Paulo, de Santa
+Catarina. Tudo empresário nacional, aquilo exatamente que eu estava querendo. E é um
+processo que eu estou extremamente... Eu chamei cada um dos vencedores aqui para dizer:
+"Olha, nós somos seus sócios técnicos. Todo o meu interesse é que isso dê certo. Eu não tenho
+nenhum interesse econômico com você. Você vai lá e faz as tuas coisas. Agora, se você tiver
+alguma dúvida, nós estamos abertos para conversar com vocês". Por que a razão disso? Quando
+nós vendemos o primeiro bloco desses... o segundo bloco para uma companhia chamada W.
+Washington, aquele de 2001, nós não fizemos nenhum acompanhamento. A Petrobras não tinha
+que fazer acompanhamento do concorrente. Então, os camaradas contrataram uma série de
+pessoas da Petrobras... Quer dizer, eles eram uma pequena empresa, eles tinham uma produção
+de 300 barris por dia. Mas um cara que vinha da Petrobras, ele é o superespecialista, não é?
+Então, o cara ficou com a receita da pequena empresa e as despesas da grande empresa. O cara
+mandava contratar a [inaudível] Berger, a [inaudível] Burton e não sei o que, e o cara quase
+sufocou. Quase sufocou. Ia ser uma tragédia para o processo, não é? Deu um ano e pouco, eu
+estava no aeroporto e encontrei o cara. Eu estava sabendo, mas ele nunca tinha vindo à ANP
+
+51
+
+falar conosco. Eu digo: "Tudo bem, faz o seguinte, manda as tuas reclamações em um relatório
+para a gente analisar". Ele manda um relatório dessa grossura, cheio de acusações da Petrobras.
+Eu olhei aquela coisa, analisamos aqui, daquela coisa não tinha umas duas páginas que eram
+culpa da Petrobras, o resto era tudo dele. [risos] As reclamações dele com a Petrobras eu resolvi
+naquela tarde. Liguei para a Petrobras, falei com a Solange lá e resolvi os problemas dele. O
+resto é tudo gerenciamento dele. Porque ele estava rigorosamente equivocado em relação ao
+tamanho da empresa dele. E ele era uma pequena empresa de petróleo e tinha que trabalhar as
+coisas, não tinha que mandar fazer estudo de geofísica. Nada disso era preciso. Mas ele contrata
+um cara que tem essas cabeças malucas...
+S.L. – E ele é o especialista, o cara chega com todo esse poder e ele acata, não é?
+N.M. – Então, esses caras eu chamei aqui, todos eles, para dizer: "Olha, você é uma pequena
+empresa, você não vai fazer essas coisas".
+S.L. – "Você é pequeno".
+N.M. – "Se você tiver dúvida em relacionamento com a Petrobras, vem aqui que nós vamos
+colocar. Porque a gente tem que fazer com que isso dê certo". Porque a gente só vai vender
+mais coisas se esses caras derem certo, não é? Então, outra coisa, nesse leilão...
+S.L. – Gera emprego? Esses pequenos empreendimentos são geradores de emprego?
+N.M. – Nós não temos com esses caras aqui, mas eu tenho a experiência americana e tenho a
+experiência canadense. Eu vou te dar um exemplo americano. Vamos comparar o Texas, que
+seria mais ou menos uma Bahia, com o Alasca, que seria mais ou menos a bacia de Campos,
+com aquelas características, uma produção mais nova, de alta produtividade. O Texas emprega
+mais de 500 mil pessoas.
+S.L. – O setor petróleo, no Texas.
+
+52
+
+N.M. – E o Alasca 10 mil. E tudo é concentrado em plataforma. É mais ou menos a relação...
+A bacia de Campos, que produz 1,3 milhão de barris, ela deve empregar umas 7 mil pessoas;
+Sergipe e Bahia, que produzem uns 70 mil, devem empregar a mesma coisa. Em terra, como
+você tem menos tecnologias, menos coisa especializada, menos automação, ele emprega gente,
+gera emprego. É isso que eu estou querendo, é gerar emprego, botar a atividade e tirar aquele
+recurso, porque ainda tem óleo lá embaixo. Então, essa é a filosofia. Quem é o grande
+beneficiário disso? É a Petrobras e o país, porque ninguém vai construir duto, ninguém vai
+construir tratadores. Aquelas coisas já existem. O cara vai pegar...
+S.L. – Isso é super importante.
+N.M. – Então, o que nós fizemos? Quando eu peguei aqueles campos todos, eu digo: "Bom, se
+eu conversar aqui na mesa, vai ser um troço muito legal, o cara vai aceitar a ideia, mas ele vai
+dizer 'será que isso é verdade mesmo?'" Aí, nós pegamos um desses campinhos, pegamos
+alguns desses campinhos e decidimos: "Vamos nós mesmos colocar em produção, para ver se
+isso é econômico". Foi o que nós fizemos. Pedimos um convênio com a Universidade da
+Bahia...
+S.L. – Nós, a ANP?
+N.M. – Nós, a ANP. Eu sou um produtor de petróleo, fabrico óleo ali. [Risos]
+R.L. – Ou seja, de uma certa maneira, voltando ao caminho do CNP, não é?
+N.M. – Exatamente. Esse aqui é o nosso convênio com a Bahia. Esse é um óleo do campo que
+tem o relatório dizendo que o campo estava esgotado, pela Petrobras. Eu tenho até umas fotos,
+se você quiser levar uma hora aí.
+S.L. – Politécnica Fapex.
+N.M. – É, a Fapex é a fundação que a gente faz para fazer as compras nas [inaudível].
+
+53
+
+S.L. – A ANP tem uma fundação?
+N.M. – Não, a universidade é que tem.
+S.L. – Ah, a universidade.
+N.M. – A universidade. A Petrotec é o nome da empresa que eu inventei lá com os alunos e
+com a gente.
+S.L. – Mas chegou a constituir como uma pessoa jurídica mesmo?
+N.M. – Não, a Fapex é marca de fantasia.
+S.L. – Não, mas essa Petro...
+N.M. – A Petrotec é a marca de fantasia. O convênio da UFBA-ANP existe.
+S.L. – Isso é muito interessante.
+N.M. – Então, o que a gente fez? Nós pegamos essa coisa, fomos analisar lá. Esse campo aqui,
+está lá um relatório de um amigo meu dizendo: "Esse campo está esgotado". Ele está esgotado
+sob a ótica de uma grande empresa. Se você estiver querendo correr atrás de 100 ou 150 barris,
+ele bota para produzir e vai secar. Mas se você quiser trabalhar com a ótica de uma pequena
+empresa, que você vai produzir 30 barris, 20 barris, não. Aí, nós pegamos, desse campo que
+tem quatro poços, nós pegamos um poço, com professores trabalhando, não é? Esse troço tem
+dois objetivos: o primeiro é mostrar que aquele negócio, olhando sob a ótica da pequena
+empresa, dá dinheiro, e o outro é treinar gente, aquele profissional generalista que eu te falei.
+Então, nós fizemos essas duas coisas. Pegamos esse poço, fizemos um trabalho de pequena
+empresa, compramos material usado, bomba usada, tanque usado, peguei a sonda a prazo, fiz
+um crediário de sonda, não é? [Risos] Porque é assim que trabalha. A Petrobras manda vir uma
+sonda e não pergunta quanto é. Mas aqui eu tenho uma limitação, eu não posso pagar mais de
+oito mil sem fazer uma concorrência, uma licitação.
+
+54
+
+S.L. – E esse óleo vai [inaudível]. Iria?
+N.M. – Deixa eu te mostrar. Nós pegamos esse negócio, em dezembro de 2003 ele começou a
+funcionar. Tem uma foto deles aí. Se você quiser levar, eu posso até mostrar para você. Então,
+nós colocamos esse poço para funcionar dessa maneira, e negociei com a Petrobras o seguinte:
+"Eu vendo para você o óleo na boca do poço". Então, nós botamos o tanque, o caminhão da
+Petrobras vai lá e leva, coloca lá. Esse projeto paga royalties, paga os royalties para o
+proprietário de terra, pagou todas as despesas que nós temos. Ele está produzindo, vai fazer
+dois anos daqui a duas semanas, ele já produziu mais de 10 mil barris por dia. E tem mais,
+como é um projeto para demonstração, eu digo: "A produção vai estar limitada em 30 barris
+que é para durar bastante tempo".
+S.L. – Quer dizer, então poderia até produzir mais, não é?
+N.M. – Poderia produzir mais. Para produzir mais eu teria que furar outros poços, teria que
+abrir outros poços para colocar. Como esse óleo que você está vendo aqui é um óleo que,
+embora seja parafina de AP alto, ele tem muita parafina, com temperatura baixa ele fica muito
+sólido, muito, muito pastoso. Aí eu digo: "Bom, então, eu vou produzir esse óleo de oito às
+cinco, no horário baiano". [Risos] Os dois são poços que só trabalham de oito às cinco. É o
+nosso horário baiano, de oito às cinco. E está lá funcionando. Nós usamos isso como um
+showroom para essas companhias pequenas.
+S.L. – E vão lá...
+N.M. – Vão lá, olharam. Teve um cara que ficou maravilhado. Teve um cara até que chorou.
+Um desses caras de Santa Catarina foi lá, olhou e viu, "Poxa, eu vou fazer a mesma coisa".
+Então, essa é uma coisa que a gente está querendo, criando um novo segmento de caras no
+Brasil.
+S.L. – Então, esse novo segmento está no Recôncavo, e em Sergipe já tem?
+
+55
+
+N.M. – Fizemos a mesma coisa em Sergipe.
+S.L. – E já tem alguém... Em Sergipe, não tem nenhuma produção ainda?
+N.M. – Não, esses poços estavam todos fechados.
+S.L. – É, é muito recente.
+N.M. – Não, os caras vão assinar o contrato no dia 12. Nós tivemos que fazer isso para mostrar
+para os caras que campos piores colocam. E agora mesmo, daqui a talvez duas semanas, nós
+estamos fazendo isso com gás, que é uma coisa muito mais complicada. Nós estamos pegando
+um desses campos de gás abandonados e estamos botando em produção, dentro desse mesmo
+convênio, que é para mostrar para o cara que gás também pode ser uma coisa do pequeno
+produtor.
+S.L. – Quando o gás é introjetado na terra, como havia... Eu me lembro, aquele campo de Juruá,
+no Amazonas, no início...
+N.M. – É Urucu que você está falando.
+S.L. – É, Urucu. O gás não era aproveitado e era... Tem uma palavra
+N.M. – Reinjetado.
+S.L. – Esse gás reinjetado não... Uma total ignorância minha: se reinjeta não aproveita mais?
+N.M. – Vai aproveitar mais.
+S.L. – Vai? Ainda dá?
+N.M. – Você está guardando.
+
+56
+
+S.L. – Reinjetar significa deixar de lado para um eventual futuro uso?
+N.M. – Exato. Você reinjeta para ele empurrar o óleo lá embaixo, porque ele tem uma energia.
+Então, ele entra no reservatório e empurra o óleo e você produz mais óleo. Quando aquele óleo
+já ficar escasso, você começa a produzir aquele gás que você reinjetou.
+R.L. – Ou seja, ele deixa de ter a função combustível e passa a ter uma função mecânica quase.
+N.M. – Uma função mecânica, de empurrar. Exatamente.
+S.L. – E depois, no futuro, ele vai ter a função...
+R.L. – Volta a ser combustão.
+N.M. – Depois, no futuro, você coloca. Essa que é a filosofia desse negócio.
+S.L. – Então, tem uma novidade vindo aí, que é: esse mesmo modelo vai ter para o gás.
+N.M. – Para gás. Nós estamos fazendo isso agora... Só atrasou, só não está funcionando agora
+porque nós tivemos problema de liberação da área, de meio ambiente. Nós já temos a liberação
+e o...
+S.L. – Mais uma vez, Recôncavo...
+N.M. – Recôncavo e...
+S.L. – E Sergipe?
+N.M. – Não, esse é só Recôncavo porque é com a UFBA, é com a Federal. É o convênio que
+nós temos.
+S.L. – Ah, faz parte desse convênio.
+
+57
+
+N.M. – É, nós usamos isso para mostrar às pessoas que esse negócio coloca.
+S.L. – É um novo showroom que está vindo aí.
+N.M. – É um novo showroom, para gás.
+S.L. – Para gás.
+N.M. – E estamos fechando agora, no final do ano, a primeira turma de caras profissionais para
+esse tipo de novo empreendedor que está vindo aqui. Porque esse novo empreendedor precisa
+de gente que...
+S.L. – Está qualificando mão-de-obra para esse tipo específico...
+N.M. – Exatamente. Eu não quero um especialista em produção, em árvore de Natal submarina,
+em escoamento...
+S.L. – Sei, aquele [inaudível].
+N.M. – Aquelas coisas complicadérrimas que eu nem sei o que é. Mas eu quero um cara que
+saiba como é que aquele pocinho cuida, como é que ele mexe na bomba, como é que ele muda
+a bomba, como é que ele trata aquela água, como é que ele vende o óleo. É esse tipo de gente.
+Está cheio disso nos Estados Unidos.
+S.L. – É, isso aí, para mim foi uma grande novidade. Eu não tinha ideia disso.
+N.M. – Agora, a coisa mais importante é o seguinte: nós estamos fazendo isso com o low
+profile, porque nós não temos o menor interesse que o americano venha para cá. Porque eles
+estão prontos.
+S.L. – Eles têm tudo isso já pronto, a tecnologia pronta.
+
+58
+
+N.M. – Têm tudo pronto. E outra... É o que eu estou dizendo, nesse negócio, tudo tem história.
+Por que eu falo isso? Porque quando nós estávamos na Braspetro, na África, na Nigéria
+aconteceu um processo muito semelhante ao que aconteceu no Brasil, o óleo também foi
+descoberto em terra. Aliás, não foi nem em terra, foi nos mangues. Uma produtividade menor,
+é uma região mais conflitante, é cheia de tribos, e os caras, um não entende o outro, aquelas
+coisas todas. No final dos anos 80, eles descobriram óleo também em águas profundas, águas
+mais profundas, em blocos melhores, e as companhias então começaram a vender aquelas
+produtividades pequenas. Nós tentamos comprar coisas lá na Nigéria e não conseguimos
+ganhar nenhuma, porque o pequeno produtor americano é mais ágil e mais rápido do que nós.
+S.L. – E já está lá.
+N.M. – Já está lá. É mais eficiente. Então, eu digo: "Então, não vamos cometer esse erro aqui".
+Nós vamos fazer isso para cá com o nosso pessoal. E eu faço esse bate-papo, esse trabalho de
+convencimento do pequeno empresário brasileiro. Eu digo: "Isso é para vocês".
+S.L. – O senhor considera essa a sua principal atividade hoje aqui? É a que lhe dá mais prazer,
+eu acho.
+N.M. – Não, esse é o meu hobby.
+S.L. – É o hobby.
+N.M. – O meu hobby. E se eu falar isso, todo mundo me demite na mesma hora. Isso é o meu
+hobby, porque os meus problemas são aquelas coisas que estão ali na frente: é a bacia de Santos,
+é Mexilhão, é Roncador, é brigar com a Petrobras. Isso aqui é o meu hobby. Isso aqui, eu
+trabalho até em casa. Aqui eu não trabalho com isso, não, praticamente. Isso aqui é
+praticamente o meu hobby. Então, eu faço esse negócio, converso aí, atendo você. Mas o meu
+outro negócio é o dia-a-dia, é aonde vai a nossa receita, os 10 ou 12 bilhões de royalties e mais
+participações especiais.
+
+59
+
+R.L. – Até mesmo para poder bancar esse tipo de experiência, não é?
+N.M. – Exato. Mas você tem que fazer isso como hobby. Essa é a minha outra ideia. Eu tenho
+umas três ideias nos últimos dez anos. Está bom.
+S.L. – Está bom.
+N.M. – Essa era uma coisa que nós podíamos ter feito na Petrobras com muito sucesso, mas os
+caras não olharam esse negócio.
+R.L. – Por falta de perspectiva.
+N.M. – Eles não olharam para frente. A gente podia ter feito isso na Petrobras em 2000 e 2001,
+criado essa coisa e ter se beneficiado. Teríamos colocado uma rede de pequenas empresas que
+iam ajudar a Petrobras a reativar a operação terrestre. Porque ela não vai parar nunca a operação
+no mar. Porque a operação no mar não é a desses caras. Nenhuma companhia pode trabalhar
+nisso.
+S.L. – Tem cacife para isso.
+N.M. – Cacife para isso. E, além do mais, você começa no lado seguro da operação, que é na
+produção. Porque o cara pequeno não resiste ao poço seco. Se um cara desses, pequeno, entra
+numa área exploratória e fura um poço seco de dois milhões de reais, acabou. Então, é uma
+coisa que você tem que olhar porque nós, que estamos rodando por aí, vemos que esse é o
+processo normal, mas nem sempre você consegue convencer as pessoas. Eu não sei se estou
+certo, mas essa é a ideia que nós estamos tentando trabalhar.
+S.L. – Faz muito sentido. Para mim, está muito claro.
+N.M. – Tem que trabalhar. Se isso dá certo, a gente vai ver mais adiante.
+S.L. – Essas duas empresas, essa W. Washington e a outra...
+
+60
+
+N.M. – E a Petrosynergy.
+S.L. – É Petrobras...
+N.M. – Não, elas são donas delas mesmas.
+S.L. – Essas compraram. Foi naquele movimento de 2000, não é?
+N.M. – É, de 2000.
+S.L. – Que a Petrobras: "Não vamos mais fazer concessão, nós vamos..." E que houve uma
+procura muito pequena.
+N.M. – Por causa do preço elevado.
+S.L. – Porque eles triplicaram o preço que foi...
+N.M. – Exatamente. Então, agora, esses caras tratam diretamente...
+R.L. – Como é o nome da outra?
+N.M. – A W. Washington e a outra é a Marítima.
+S.L. – A Marítima.
+N.M. – Eles mudaram o nome para Synergy.
+S.L. – Petrosynergy
+N.M. – Petrosynergy. Quer dizer, é falar no German Efromovich. Já ouviu falar, não é?
+
+61
+
+S.L. – Já, já ouvi falar.
+N.M. – Pois é, ele que é o dono.
+S.L. – É um cara polêmico, não é?
+N.M. – É polêmico. Mas é um cara de muita visão, tanto que ele fez agora uma coisa
+interessante: ele tem uma linha aérea para Macaé que vive lotada. A gente levava três a quatro
+horas...
+S.L. – Só Macaé. Só faz essa linha.
+N.M. – Eu acho que vai até Campos.
+S.L. – É a BRA?
+N.M. – Não, Ocean Air.
+S.L. – A Ocean Air!
+R.L. – A gente encontra os aviões.
+S.L. – Já tem linha em São Paulo, no interior de São Paulo.
+N.M. – Pois é, como eu te falei, começou com Macaé.
+S.L. – O filho do cara que eu comprei apartamento agora é piloto da Ocean Air.
+N.M. – Começou com Macaé.
+R.L. – Inclusive, já está operando com Rio-São Paulo.
+
+62
+
+S.L. – Já está fazendo Rio-São Paulo.
+N.M. – Está fazendo Rio-São Paulo. Eu sei que ele vai...
+R.L. – Foi um dos fatores de obrigar a Varig a abaixar o preço essa semana.
+N.M. – Não, ele vai até Vitória. A linha dele é a linha do petróleo. Ele vai para São Paulo, mas
+ele faz São Paulo-Macaé e faz Vitória, porque é onde está a concentrado a indústria do petróleo
+atualmente.
+S.L. – A Fazenda Cedro é Espírito Santo, não é?
+N.M. – Não, porque Vitória agora é o centro da Petrobras para essas descobertas todas no
+offshore.
+S.L. – Ah, agora é...
+N.M. – É, essa coisa é toda lá. Então, é uma área que provavelmente, se não tiver mais coisas
+aqui na bacia de Campos, a maior parte do investimento vai para Vitória.
+S.L. – Não é para a bacia de Santos?
+N.M. – Santos vai demorar um pouco mais. O problema de Vitória é que é óleo, e é óleo leve,
+descobriram mais rápido. O problema de Santos é gás, tudo bem, mas tem que ter o mercado,
+tem que ter a infraestrutura.
+S.L. – Tem a história do gasoduto Brasil-Bolívia. Tem uma série de questões aí também, não
+é? Olha, por mim...
+N.M. – Deu?
+S.L. – Deu. Eu acho que...
+
+63
+
+N.M. – Então, pronto.
+S.L. – Ultrapassou em dez minutos o seu horário, mas para nós foi excelente.
+R.L. – Eu acho que foi ótimo mesmo.
+S.L. – Vamos agradecer o dr. Newton...
+[FINAL DO DEPOIMENTO]
+
+64
+
+
